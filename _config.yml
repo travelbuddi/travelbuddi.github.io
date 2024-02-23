@@ -24,7 +24,7 @@ authors:
     franzi:
       name:           Franzi
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
       bio:            "Hi I'm Franzi"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
@@ -32,7 +32,7 @@ authors:
     jonas:
       name:           Jonas
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "I am Jonas"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
