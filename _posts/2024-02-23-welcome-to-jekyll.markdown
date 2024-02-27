@@ -5,7 +5,6 @@ categories: [Travel]
 image: assets/images/vw-campervan-man-guitar.jpg
 ---
 
-#  Hallo this is a test
 
 # Embracing the Magic of Travel: A Journey Beyond Boundaries
 
