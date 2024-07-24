@@ -25,11 +25,7 @@ authors:
       name:           Franzi
       site:           https://travelbuddi.github.io/
       avatar:         assets/images/franzi.jpeg
-      bio:            |
-                      Hallo ich bin Franzi \n
-                      25 Jahre alt \n
-                      und lebe in Wien \n
-
+      bio:            "Hallo ich bin Franzi \n 25 Jahre alt \n und lebe in Wien \n"
       #email:          wowthemesnet@gmail.com
       #twitter:        https://twitter.com/wowthemesnet
 
