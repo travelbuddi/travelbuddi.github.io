@@ -25,11 +25,10 @@ authors:
       name:           Franzi
       site:           https://travelbuddi.github.io/
       avatar:         assets/images/franzi.jpeg
-      bio:            """
-                      Franzi
-                      Test
-                      Test 
-                      """
+      bio:            |
+                      ### Franzi
+                      * Bullet
+                      * Points
 
       #email:          wowthemesnet@gmail.com
       #twitter:        https://twitter.com/wowthemesnet
