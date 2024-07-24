@@ -6,8 +6,8 @@ logo: 'assets/images/desert_island.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 url: 'https://travelbuddi.github.io'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+# disqus: 'demowebsite'
+# email: 'wowthemesnet@gmail.com'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -23,19 +23,19 @@ plugins:
 authors:
     franzi:
       name:           Franzi
-      site:           https://www.wowthemes.net
+      #site:           https://www.wowthemes.net
       avatar:         assets/images/franzi.jpeg
       bio:            "Hi I'm Franzi"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      #email:          wowthemesnet@gmail.com
+      #twitter:        https://twitter.com/wowthemesnet
 
     jonas:
       name:           Jonas
-      site:           https://www.wowthemes.net
+      site:           https://yleisnero.github.io
       avatar:         assets/images/jonas.jpeg
       bio:            "I am Jonas"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      #email:          fakemail@gmail.com
+      #twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
@@ -45,7 +45,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: jonas
       avatar: /assets/images/jonas.jpeg
       
   # all pages
