@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Can you build a Campervan in one week ... ?"
+title:  "Is it possible to build a Campervan in only one week?"
 author: jonas
 categories: [ Travel, Tutorial ]
 image: assets/images/campervan_build.jpg
