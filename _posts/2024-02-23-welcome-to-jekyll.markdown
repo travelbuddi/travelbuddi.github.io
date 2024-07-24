@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Travel Buddi!"
 categories: [Travel]
-image: assets/images/vw-campervan-man-guitar.jpg
+image: assets/images/Titelbild.jpg
 ---
 
 
