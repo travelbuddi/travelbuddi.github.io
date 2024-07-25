@@ -7,7 +7,13 @@ image: assets/images/campervan-old-radio.jpg
 tags: []
 ---
 
-Unser T5 Multivan hatte einen Radio mit CD Laufwerk, jedoch ohne AUX oder Bluetooth. 
+Tschüss, CDs! Hallo, digitales CarPlay! Das alte Gerät war einfach nicht mehr auf der Höhe der Zeit. Kein Bluetooth, kein Navi – stattdessen ein CD-Laufwerk, das wir schon lange nicht mehr benutzt haben. Vor allem die Suche nach einem geeigneten Platz für unsere externe Bluetooth-Box war auf Dauer ziemlich nervig. Unser T5 Multivan hatte also einen Radio mit CD Laufwerk, jedoch ohne AUX oder Bluetooth. 
+
+Mit dem Einbau eines modernen DIN-2 Radios wollten wir endlich mehr Komfort und eine bessere Soundqualität im Auto genießen und unser Smartphone bequem mit dem Auto zu verbinden und unsere Lieblingsmusik oder Navigation über ein großes Display zu nutzen.
+
+# Gründe, warum ihr euch ein Radio Upgrade übrelegen solltet: 
+
+In diesem Beitrag möchten wir euch genauer vorstellen, warum wir uns für den Pioneer SPH-DA160DAB entschieden haben und welche Erfahrungen wir bisher damit gemacht haben. Wir gehen auf die Installation, die Funktionen und die Soundqualität ein und zeigen euch, wie ihr euer Smartphone ganz einfach mit dem Radio verbindet.
 
 Wir haben uns bereits mit einem Bluetooth FM Transmitter versucht, jedoch verändert sich während der Fahrt oft die Frequenz, wodurch das Signal oft gestört wurde.
 
