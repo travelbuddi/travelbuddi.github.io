@@ -11,7 +11,7 @@ Tschüss, CDs! Hallo, digitales CarPlay! Das alte Gerät war einfach nicht mehr 
 
 Mit dem Einbau eines modernen DIN-2 Radios wollten wir endlich mehr Komfort und eine bessere Soundqualität im Auto genießen und unser Smartphone bequem mit dem Auto zu verbinden und unsere Lieblingsmusik oder Navigation über ein großes Display zu nutzen.
 
-# Gründe, warum ihr euch ein Radio Upgrade übrelegen solltet: 
+## Gründe, warum ihr euch ein Radio Upgrade übrelegen solltet: 
 
 In diesem Beitrag möchten wir euch genauer vorstellen, warum wir uns für den Pioneer SPH-DA160DAB entschieden haben und welche Erfahrungen wir bisher damit gemacht haben. Wir gehen auf die Installation, die Funktionen und die Soundqualität ein und zeigen euch, wie ihr euer Smartphone ganz einfach mit dem Radio verbindet.
 
