@@ -7,7 +7,7 @@ image: assets/images/campervan_build.jpg
 tags: [sticky]
 ---
 
-## Vanlife in 7 Tagen: Unser Traum vom DIY Campervan Ausbau
+## Vanlife in 7 Tagen: Unser Traum vom DIY Campervan 
 
 Eine Woche, ein Bus, unendlich viele Möglichkeiten – oder doch nicht? Im Mai 2024 haben wir versucht, den unmöglich Scheinenden zu schaffen: einen kompletten Camperausbau in nur sieben Tagen. Ob uns das gelungen ist und was wir dabei gelernt haben, erfährst du hier
 
@@ -22,12 +22,12 @@ Hand aufs Herz: Wer von uns ist schon gelernter Handwerker oder Elektriker? Gena
  
 
 
-#### Und los gehts mit unserem nächsten Projekt: Wir bauen einen Camper 
+#### Und los gehts: Wir bauen einen Campervan 
 
-* **Herausforderungen:** Keine Vorkenntnisse, 
-* **Unsere Erfolge:** Erfolgreicher Ausbau eines VW T5 Mulitvans 
-* **Tipps & Tricks:** Ideensammlung und Recherche 
-* **Das Ergebnis:** Bilder
+* **Herausforderungen:** Die Kombination aus fehlenden Kenntnissen, schlechtem Wetter und dem ständigen Hin und Her zum Baumarkt hat uns manchmal an unsere Grenzen gebracht. Es gab Momente der Frustration, in denen wir uns gefragt haben, ob wir dieses Projekt überhaupt schaffen würden. Doch mit jeder überwundenen Hürde wuchs auch unsere Motivation und unser Stolz.
+* **Unsere Erfolge:** Es war ein ständiges Auf und Ab. Kaum hatten wir eine Aufgabe gelöst, tauchte schon die nächste auf. Die Kombination aus fehlenden Vorkenntnissen und unserem vollen Terminkalender machte das Projekt oft zur Herausforderung. Doch wir haben gelernt, auch die kleinen Erfolge zu schätzen und uns gegenseitig zu motivieren. Denn schließlich war es unser gemeinsames Ziel, einen Camper zu bauen, der ganz unseren Vorstellungen entspricht.  
+* **Tipps & Tricks:** 
+* **Das Ergebnis:** Ich würde einfach mal sagen, das Ergebnis kann sich sehen lassen. 😜
 * **Unser ausgebauter Camper - Wollma:** noch immer nicht fertig 
 * **Fazit:** schritt für schritt 
 * **Reality Check:** Fazit  
