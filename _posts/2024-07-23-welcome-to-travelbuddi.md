@@ -8,7 +8,7 @@ image: assets/images/Titelbild.jpg
 
 ## Lasst und gemeinsam die Welt bereisen 
 
-Technik trifft Reiselust! Wir sind Jonas und [Name deiner Freundin], ein Paar, das die Welt mit Laptop und Campingausrüstung erkundet. Als Informatiker bringe ich meine technischen Kenntnisse in unsere Abenteuer ein, während [Name deiner Freundin] für die kreative Seite sorgt. Ob wir nun eine neue App testen oder einen Camper umbauen – bei uns kommt garantiert keine Langeweile auf!
+Technik trifft Reiselust! Wir sind Jonas und Franzi , ein Paar, das die Welt mit Laptop und Campingausrüstung erkundet. Als Informatiker bringe ich meine technischen Kenntnisse in unsere Abenteuer ein, während Franzi für den kreativen Spirit sorgt. Ob wir nun eine neue App testen oder einen Camper umbauen – bei uns kommt garantiert keine Langeweile auf! Schaut euch also gerne einfach bei uns um!
 
 
 Die Welt ist ein atemberaubender Ort voller Wunder, die nur darauf warten, entdeckt zu werden. Von schneebedeckten Gipfeln bis hin zu türkisfarbenen Lagunen, pulsierenden Metropolen und verträumten Dörfern bietet unser Planet eine unendliche Vielfalt an Landschaften, Kulturen und Erfahrungen. 
