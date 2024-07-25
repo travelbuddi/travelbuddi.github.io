@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Ist es möglich, einen Van in nur einer Woche auszubauen?"
+title:  "Ist es möglich, einen Campervan in nur einer Woche auszubauen?"
 author: franzi
 categories: [ Travel, Tutorial ]
 image: assets/images/campervan_build.jpg
 tags: [sticky]
 ---
 
-## "Vanlife in 7 Tagen: Unser DIY Camper Ausbau in nur 7 Tagen?  
+## Vanlife in 7 Tagen: Unser Traum vom DIY Campervan Ausbau
 
 Eine Woche, ein Bus, unendlich viele Möglichkeiten – oder doch nicht? Im Mai 2024 haben wir versucht, den unmöglich Scheinenden zu schaffen: einen kompletten Camperausbau in nur sieben Tagen. Ob uns das gelungen ist und was wir dabei gelernt haben, erfährst du hier
 
