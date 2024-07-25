@@ -24,3 +24,5 @@ Letztendlich haben wir uns entschieden einen DIN-2 Radio einzubauen und gegen ei
 Entschieden haben wir uns für den Pioneer SPH-DA160DAB.
 
 Das Interface ist sehr schlicht gehalten und die Anordnung der Menü Buttons ist auf 2 Seiten verteilt. Demzufolge sind einige Buttons ausgegraut wie zum Beispiel das UKW Radio oder CarPlay wenn kein Handy angesteckt ist, was wiederum nicht besonders ansprechend aussieht.
+
+![This is an Image](/assets/images/Autoradio.jpg)
