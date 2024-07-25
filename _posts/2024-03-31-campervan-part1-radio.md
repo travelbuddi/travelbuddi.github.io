@@ -3,7 +3,7 @@ layout: post
 title:  "Campervan Umbau Part 1 - Radio Upgrade"
 author: jonas
 categories: [ Travel, Tutorial ]
-image: assets/images/autoradio.jpg
+image: assets/images/Autoradio.jpg
 tags: []
 ---
 
