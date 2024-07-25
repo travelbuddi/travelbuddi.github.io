@@ -5,6 +5,9 @@
 - New file
 - 2024-07-24-newpost.md
 
+## Add a image to a text
+![This is an Image](/assets/image.jpg)
+
 ## Run locally
 ```
 bundle install
