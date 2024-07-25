@@ -29,13 +29,13 @@ Hand aufs Herz: Wer von uns ist schon gelernter Handwerker oder Elektriker? Gena
 
 * **Tipps & Tricks:** 
 
-* **Das Ergebnis:** Ich würde einfach mal sagen, das Ergebnis kann sich sehen lassen. 
+* **Das Ergebnis:** 
 
-* **Unser ausgebauter Camper - Wollma:** noch immer nicht fertig 
+* **Unser ausgebauter Campervan - Wollma:** 
 
-* **Fazit:** schritt für schritt 
+* **Fazit:** 
 
-* **Reality Check:** Fazit  
+* **Reality Check:** 
 
 #### Zusätzliche Aspekte, die für einen eigenen Ausbau interessant sein können 
 
