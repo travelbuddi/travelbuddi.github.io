@@ -9,7 +9,7 @@ tags: [sticky]
 
 ## Vanlife in 7 Tagen: Unser Traum vom DIY Campervan 
 
-Eine Woche, ein Bus, unendlich viele Möglichkeiten – oder doch nicht? Im Mai 2024 haben wir versucht, den unmöglich Scheinenden zu schaffen: einen kompletten Camperausbau in nur sieben Tagen. Ob uns das gelungen ist und was wir dabei gelernt haben, erfährst du hier
+Eine Woche, ein Bus, unendlich viele Möglichkeiten – oder doch nicht? Im Mai 2024 haben wir versucht, das unmöglich scheinende zu schaffen: einen kompletten Camperausbau in nur sieben Tagen. Ob uns das gelungen ist und was wir dabei gelernt haben, erfährst du hier
 
 Du träumst von deinem eigenen Camper, hast aber keine Ahnung vom Ausbau? Keine Sorge, du bist nicht allein! Auch wir haben als Anfänger klein angefangen. Mit ein bisschen Planung, Kreativität und der richtigen Unterstützung kannst du deinen Traum vom selbst ausgebauten Camper verwirklichen.
 
