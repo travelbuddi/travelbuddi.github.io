@@ -15,6 +15,31 @@
 <a href="{% post_url 2024-03-31-post-name %}">Link to a post</a>.
 ```
 
+## Markdown cheat sheet
+Headings
+```
+# H1
+## H2
+### H3
+```
+Bold Text
+```
+**bold text**
+```
+
+Italic
+```
+*italicized text*
+```
+
+List
+```
+- First item
+- Second item
+- Third item
+```
+
+
 
 ## Run locally
 ```
