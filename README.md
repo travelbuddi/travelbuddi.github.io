@@ -36,6 +36,12 @@ Go there:
 <a href="url"><img src="/assets/images/Mirleft.jpg" style="border-radius:2%; width:30%"></a>
 <a href="url"><img src="/assets/images/Mirleft.jpg" style="border-radius:2%; width:30%"></a>
 ```
+or
+```
+![Mirleft](/assets/images/Mirleft.jpg){: width="30%"}
+![Mirleft](/assets/images/Mirleft.jpg){: width="30%"}
+![Mirleft](/assets/images/Mirleft.jpg){: width="30%"}
+```
 
 ## Markdown cheat sheet
 Headings
