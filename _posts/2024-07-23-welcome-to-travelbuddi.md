@@ -2,7 +2,7 @@
 layout: post
 title: "Willkommen bei Travel Buddi!"
 categories: [Travel]
-image: assets/images/travelbuddii.jpg
+image: assets/images/Travelbuddii.jpg
 ---
 
 
