@@ -21,8 +21,9 @@ Hier haben wir im Touristenbüro nachgefragt und durften für eine Nacht bei Ihn
 Am nächsten Morgen ging es dann immer weiter der Sonne hinterher, bis wir in Split angekommen sind. Ein weiterer Zwischenstopp unserer Route. 
 
 ![Kroatien1](/assets/images/Kroatien1.jpg){: width="30%"}
-![Kroatien3](/assets/images/Kroatien3.jpg){: width="30%"}
 ![Kroatien2](/assets/images/Kroatien2.jpg){: width="30%"}
+![Kroatien3](/assets/images/Kroatien3.jpg){: width="30%"}
+
 
 ### Bosnien & Herzegowina 
 
