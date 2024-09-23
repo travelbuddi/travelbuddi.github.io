@@ -34,6 +34,7 @@ Unser nächster Halt war in Bosninen & Herzegowina am wunderschönen Buško jeze
 
 Unsere Weitereise bringt und nach Mostar. Mostar ist für seine unglaublichen Brücken bekannt. Heute haben wir leider keine Personen von dort oben springen sehen, wenn wir Glück haben, sehen wir noch welche bei unserer <a href="https://www.guruwalk.com/de/walks/34705-shevas-free-walking-tour-durch-mostar-entdecken-sie-die-vergangenheit-verstehen-sie-unsere-gegenwart">Free Walking Tour</a> durch die Stadt. 
 
+
 # *Seehenswürdigkeiten:*
 * Buško jezero
 * Mostar - Stari Most
