@@ -61,6 +61,12 @@ Das nächste Land auf unserer Liste ist: Montenegro.
 
 
 ### Nord Mazedonien 
+![Ohrid](/assets/images/Ohrid01.jpg)
+
+
+![Ohrid](/assets/images/Ohrid02.jpg){: width="30%"}
+![Ohrid](/assets/images/Ohrido03.jpg){: width="30%"}
+![MOhrid](/assets/images/Ohrid04.jpg){: width="30%"}
 
 ### Albanien 
 
