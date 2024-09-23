@@ -44,6 +44,21 @@ Unser nächster Halt war in Bosninen & Herzegowina am wunderschönen Buško jeze
 ![Bosnien04](/assets/images/Bosnien04.jpg){: width="30%"}
 
 ### Montenegro 
+![Podgorica](/assets/images/Montenegro01.jpg)
+
+Das nächste Land auf unserer Liste ist: Montenegro.
+
+*Seehenswürdigkeiten:*
+* Podgorica
+* Nijagara Waterfall
+* Weinverkostung
+* Durmitor Ring
+
+
+![Montenegro02](/assets/images/Montenegro02.jpg){: width="30%"}
+![Montenegro03](/assets/images/Montenegro03.jpg){: width="30%"}
+![Montenegro04](/assets/images/Montenegro04.jpg){: width="30%"}
+
 
 ### Nord Mazedonien 
 
