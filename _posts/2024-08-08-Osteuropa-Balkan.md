@@ -10,7 +10,7 @@ tags: [featured]
 # Osteuropa und der Balkan
 In diesem Beitrag geht es um unsere Balkanreise mit unserem selbst ausgebauten VW Bus Wollma, den wir Anfang des Jahres fertiggestellt haben. Im Jahr 2024 ist ein selbst ausgebauter Van zwar keine Seltenheit mehr, doch für uns war es die erste mehrwöchige Reise mit unserem neuen Bus. Die serpentinenreichen Straßen, engen Gassen und teils kaum vorhandenen Wege stellten unsere Nerven auf eine harte Probe.
 
-### Reisevorbereitungen:  
+## Reisevorbereitungen:  
 Da Albanien nun nicht der nahegelegenste Urlaubsort ist und noch dazu mit dem Auto, haben wir uns vorgenommen, gleich den ganzen Balkan zu bereisen und einfach erneut die Orte zu besuchen, die uns am meisten gefallen haben. Dieser Beitrag soll unter anderem dazu dienen, einen groben Überblick über Osteuropa und den Balkan zu geben, um eine Anregung für eine zukünftige Reise zu geben. Zudem haben wir die App Park4Night genutzt, um nicht nur gute Spots, sondern auch kostenlose Schlafmöglichkeiten zu finden.
 
 
@@ -31,7 +31,10 @@ Am nächsten Morgen ging es dann immer weiter der Sonne hinterher, bis wir in Sp
 
 Unser nächster Halt war in Bosninen & Herzegowina am wunderschönen Buško jezero (siehe Bild), der größte See des Landes. Diesen Spot haben über Park4Night entdeckt, und konnte ganz abseits der touristischen Städte die Ruhe des Sees genießen. Etwas hinter der Ländergrenze nehmen wir eine sehr unscheinbare Straße, welche uns zu unserem Schlafplatz der letzten zwei Nächte führt. Dort könnn wir nicht nur ungestört (mit Ausnahmen einiger freundlicher Fischer) die Seele baumeln lassen, Bücher lesen, Joggen gehen und im See baden, sondern auch kochen, kniffeln und schlafen. Die gesamten 3 Tage haben wir nur vereinzelt ein paar Leute getroffen, und meist waren es lokale Fischer, die dort bis in die Nacht hinein fischten. Trotz Sprachunterschiede mit Händen und Füßen ein wenig unterhalten können.
 
-*Seehenswürdigkeiten:*
+
+Unsere Weitereise bringt und nach Mostar. Mostar ist für seine unglaublichen Brücken bekannt. Heute haben wir leider keine Personen von dort oben springen sehen, wenn wir Glück haben, sehen wir noch welche bei unserer <a href="https://www.guruwalk.com/de/walks/34705-shevas-free-walking-tour-durch-mostar-entdecken-sie-die-vergangenheit-verstehen-sie-unsere-gegenwart">Free Walking Tour</a> durch die Stadt. 
+
+# *Seehenswürdigkeiten:*
 * Buško jezero
 * Mostar - Stari Most
 * Blagaj Tekke
@@ -48,7 +51,7 @@ Unser nächster Halt war in Bosninen & Herzegowina am wunderschönen Buško jeze
 
 Das nächste Land auf unserer Liste ist: Montenegro.
 
-*Seehenswürdigkeiten:*
+# *Seehenswürdigkeiten:*
 * Podgorica
 * Nijagara Waterfall
 * Weinverkostung
