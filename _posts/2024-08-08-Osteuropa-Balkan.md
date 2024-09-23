@@ -69,11 +69,16 @@ Das nächste Land auf unserer Liste ist: Montenegro.
 
 
 ![Ohrid](/assets/images/Ohrid02.jpg){: width="30%"}
-![Ohrid](/assets/images/Ohrido03.jpg){: width="30%"}
-![MOhrid](/assets/images/Ohrid04.jpg){: width="30%"}
+![Ohrid](/assets/images/Ohrid03.jpg){: width="30%"}
+![Ohrid](/assets/images/Ohrid04.jpg){: width="30%"}
 
 ### Albanien 
+![Albanien](/assets/images/Albanien01.jpg)
+
 
 ### Serbien 
+![Serbien](/assets/images/Serbien01.jpg)
+
 
 ### Budapest 
+![Budaoest](/assets/images/Budapest01.jpg)
