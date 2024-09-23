@@ -29,7 +29,7 @@ Am nächsten Morgen ging es dann immer weiter der Sonne hinterher, bis wir in Sp
 
 ![Busko Jesero](/assets/images/Bosnien01.jpg)
 
-Unser nächster Halt war in Bosninen & Herzegowina am wunderschönen Buško jezero (siehe Bild). Diesen Spot haben über Park4Night entdeckt, und konnte ganz abseits der touristischen Städte die Ruhe des Sees genießen. 
+Unser nächster Halt war in Bosninen & Herzegowina am wunderschönen Buško jezero (siehe Bild), der größte See des Landes. Diesen Spot haben über Park4Night entdeckt, und konnte ganz abseits der touristischen Städte die Ruhe des Sees genießen. Etwas hinter der Ländergrenze nehmen wir eine sehr unscheinbare Straße, welche uns zu unserem Schlafplatz der letzten zwei Nächte führt. Dort könnn wir nicht nur ungestört (mit Ausnahmen einiger freundlicher Fischer) die Seele baumeln lassen, Bücher lesen, Joggen gehen und im See baden, sondern auch kochen, kniffeln und schlafen. Die gesamten 3 Tage haben wir nur vereinzelt ein paar Leute getroffen, und meist waren es lokale Fischer, die dort bis in die Nacht hinein fischten. Trotz Sprachunterschiede mit Händen und Füßen ein wenig unterhalten können.
 
 *Seehenswürdigkeiten:*
 * Buško jezero
