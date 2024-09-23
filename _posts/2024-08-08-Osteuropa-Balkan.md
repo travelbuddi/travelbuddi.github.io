@@ -10,7 +10,7 @@ tags: [featured]
 # Osteuropa und der Balkan
 In diesem Beitrag geht es um unsere Balkanreise mit unserem selbst ausgebauten VW Bus Wollma, den wir Anfang des Jahres fertiggestellt haben. Im Jahr 2024 ist ein selbst ausgebauter Van zwar keine Seltenheit mehr, doch für uns war es die erste mehrwöchige Reise mit unserem neuen Bus. Die serpentinenreichen Straßen, engen Gassen und teils kaum vorhandenen Wege stellten unsere Nerven auf eine harte Probe.
 
-## Reisevorbereitungen:  
+### Reisevorbereitungen:  
 Da Albanien nun nicht der nahegelegenste Urlaubsort ist und noch dazu mit dem Auto, haben wir uns vorgenommen, gleich den ganzen Balkan zu bereisen und einfach erneut die Orte zu besuchen, die uns am meisten gefallen haben. Dieser Beitrag soll unter anderem dazu dienen, einen groben Überblick über Osteuropa und den Balkan zu geben, um eine Anregung für eine zukünftige Reise zu geben. Zudem haben wir die App Park4Night genutzt, um nicht nur gute Spots, sondern auch kostenlose Schlafmöglichkeiten zu finden.
 
 
@@ -35,7 +35,7 @@ Unser nächster Halt war in Bosninen & Herzegowina am wunderschönen Buško jeze
 Unsere Weitereise bringt und nach Mostar. Mostar ist für seine unglaublichen Brücken bekannt. Heute haben wir leider keine Personen von dort oben springen sehen, wenn wir Glück haben, sehen wir noch welche bei unserer <a href="https://www.guruwalk.com/de/walks/34705-shevas-free-walking-tour-durch-mostar-entdecken-sie-die-vergangenheit-verstehen-sie-unsere-gegenwart">Free Walking Tour</a> durch die Stadt. 
 
 
-# *Seehenswürdigkeiten:*
+#### *Seehenswürdigkeiten:*
 * Buško jezero
 * Mostar - Stari Most
 * Blagaj Tekke
