@@ -29,6 +29,14 @@ Am nächsten Morgen ging es dann immer weiter der Sonne hinterher, bis wir in Sp
 
 ![Busko Jesero](/assets/images/Bosnien01.jpg)
 
+Unser nächster Halt war in Bosninen & Herzegowina am wunderschönen Buško jezero (siehe Bild). Diesen Spot haben über Park4Night entdeckt, und konnte ganz abseits der touristischen Städte die Ruhe des Sees genießen. 
+
+*Seehenswürdigkeiten:*
+* Buško jezero
+* Mostar - Stari Most
+* Blagaj Tekke
+* Two River Crossing
+* Kravica Wasserfälle
 
 
 ![Bosnien02](/assets/images/Bosnien02.jpg){: width="30%"}
