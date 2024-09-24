@@ -38,6 +38,10 @@ Unsere Weitereise bringt und nach Mostar. Mostar ist für seine unglaublichen Br
 
 Nach diesen kulinarischen Erlebnissen geht es mit unserem Camper weiter Richtung Süden. Unterwegs kommen wir an einem alten Kloster vorbei, das spektakulär in den Felsen direkt am Fluss gebaut wurde. Schließlich erreichen wir unser nächstes Ziel: die beeindruckenden Kravica-Wasserfälle – ein perfekter Ort, um die Natur zu genießen und den Tag ausklingen zu lassen.
 
+![Bosnien02](/assets/images/Bosnien02.jpg){: width="30%"}
+![Bosnien03](/assets/images/Bosnien03.jpg){: width="30%"}
+![Bosnien04](/assets/images/Bosnien04.jpg){: width="30%"}
+
 
 #### *Sehenswürdigkeiten:*
 * Buško jezero
@@ -47,25 +51,21 @@ Nach diesen kulinarischen Erlebnissen geht es mit unserem Camper weiter Richtung
 * <a href="https://kravica.ba/de/kravica-wasserfall/">Kravica Wasserfälle</a>
 
 
-![Bosnien02](/assets/images/Bosnien02.jpg){: width="30%"}
-![Bosnien03](/assets/images/Bosnien03.jpg){: width="30%"}
-![Bosnien04](/assets/images/Bosnien04.jpg){: width="30%"}
 
 ### Montenegro 
 ![Podgorica](/assets/images/Montenegro01.jpg)
 
 Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischenstopp auf unserer Durchreise nach Nordmazedonien geplant, hat uns das Land so begeistert, dass wir spontan beschlossen, eine Nacht in der Nähe von Podgorica zu verbringen. Auf einem kleinen Weingut fanden wir einen charmanten Schlafplatz. Dort wird privat eine Weinverkostung mit Essen angeboten, und als besonderes Highlight durften wir im Garten der Gastgeber übernachten – ein unvergleichliches Erlebnis mitten in den Weinbergen mit sehr guten selbstgemachten Weinen - nur zu empfehlen! 
 
+![Montenegro02](/assets/images/Montenegro02.jpg){: width="30%"}
+![Montenegro03](/assets/images/Montenegro03.jpg){: width="30%"}
+![Montenegro04](/assets/images/Montenegro04.jpg){: width="30%"}
+
 #### *Sehenswürdigkeiten:*
 * Podgorica
 * <a href="https://www.lonelyplanet.com/montenegro/podgorica/attractions/niagara-falls/a/poi-sig/1543410/360160">Nijagara Waterfall </a>
 * Weinverkostung
 * Durmitor Ring
-
-
-![Montenegro02](/assets/images/Montenegro02.jpg){: width="30%"}
-![Montenegro03](/assets/images/Montenegro03.jpg){: width="30%"}
-![Montenegro04](/assets/images/Montenegro04.jpg){: width="30%"}
 
 
 ### Nord Mazedonien 
@@ -82,12 +82,12 @@ Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über
 ![Ohrid](/assets/images/Ohrid03.jpg){: width="30%"}
 ![Ohrid](/assets/images/Ohrid04.jpg){: width="30%"}
 
-
 #### *Sehenswürdigkeiten:*
 * Ohrid See
 * Nationalpark Galičica
 * <a href="https://mazedonien.de/kulturstaette/bay-of-bones-museum-auf-dem-wasser-2/">Bay of Bones </a>
 * <a href="https://perviam.de/nordmazedonien-kloster-sveti-naum/">Kloster Sveti Naum </a>
+
 
 
 ### Albanien 
@@ -111,6 +111,12 @@ Nach Berat ging es für uns in die bekannte Hafenstadt Vlorë. Dort erhoffen wir
 
 Die Tage am Meer waren wahrer Balsam für unsere Seelen. Drei volle Tage konnten wir ungestört am Strand liegen, uns sonnen und im kristallklaren Wasser baden. Doch irgendwann packte uns erneut die Abenteuerlust, und so machten wir uns auf den Weg nach Gjirokastra – einer Stadt, die als eines der wichtigsten Kulturerben Albaniens gilt und uns mit ihrer beeindruckenden Lage am Berg sofort in ihren Bann zog. Kaum angekommen, begann es leider zu regnen. Als wir dann zum ersten Mal seit Wochen das Wetter checkten, stellten wir fest, dass es ab der kommenden Woche deutlich kälter und unbeständiger werden soll. Der Herbst kündigt sich an, und wir müssen uns auf kühleres Wetter in Albanien einstellen. Oh nein! Daher heißt es für uns, erstmal keine Übernachtung in Gjirokastra - aber definitv einen Besuch wert - und weiter zu unserem nächsten Stopp. 
 
+![Albanien](/assets/images/Albanien05.jpg){: width="30%"}
+![Albanien](/assets/images/Albanien06.jpg){: width="30%"}
+![Albanien](/assets/images/Albanien07.jpg){: width="30%"}
+
+
+
 #### *Sehenswürdigkeiten:*
 * Berat - die Stadt der 1000 Fenster
 * Vlorë
@@ -120,10 +126,6 @@ Die Tage am Meer waren wahrer Balsam für unsere Seelen. Drei volle Tage konnten
 * Ksamil Beach 
 * Permet - Thermal Baths 
 
-
-![Albanien](/assets/images/Albanien05.jpg){: width="30%"}
-![Albanien](/assets/images/Albanien06.jpg){: width="30%"}
-![Albanien](/assets/images/Albanien07.jpg){: width="30%"}
 
 
 ### Serbien 
