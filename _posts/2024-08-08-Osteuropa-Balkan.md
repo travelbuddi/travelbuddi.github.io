@@ -14,7 +14,7 @@ In diesem Beitrag geht es um unsere Balkanreise mit unserem selbst ausgebauten V
 Da Albanien nun nicht der nahegelegenste Urlaubsort ist und noch dazu mit dem Auto, haben wir uns vorgenommen, gleich den ganzen Balkan zu bereisen und einfach erneut die Orte zu besuchen, die uns am meisten gefallen haben. Dieser Beitrag soll unter anderem dazu dienen, einen groben Überblick über Osteuropa und den Balkan zu geben, um eine Anregung für eine zukünftige Reise zu geben. Zudem haben wir die App Park4Night genutzt, um nicht nur gute Spots, sondern auch kostenlose Schlafmöglichkeiten zu finden.
 
 
-### Kroatien 
+## Kroatien 
 Unser erstes Land, abgesehen von Deutschland und Österreich, war Kroatien. Da ich persönlich noch nie in Kroatien war, haben wir uns entschlossen, auch hier den ein oder anderen Ort abzufahren, um uns dort umzusehen. Als erstes sind wir in einem verschlafenen Örtchen namens Jadronovo gelandet (45.23186302952023, 14.611717329807528). Hier haben wir im Touristenbüro nachgefragt und durften für eine Nacht bei Ihnen am Parkplatz übernachten. Definitiv eine Empfehlung, einen Zwischenstopp in diesem Dörfchen zu machen. Am Strand haben wir Abends gut gegessen und sind in der Früh, bevor es weiter Richtung Süden ging, noch eine Runde im Meer geschwommen. 
 
 
@@ -25,7 +25,7 @@ Am nächsten Morgen ging es dann immer weiter der Sonne hinterher, bis wir in Sp
 ![Kroatien3](/assets/images/Kroatien3.jpg){: width="30%"}
 
 
-### Bosnien & Herzegowina 
+## Bosnien & Herzegowina 
 
 ![Busko Jesero](/assets/images/Bosnien01.jpg)
 
@@ -37,6 +37,7 @@ Unsere Weitereise bringt und nach Mostar. Mostar ist für seine unglaublichen Br
 
 
 Nach diesen kulinarischen Erlebnissen geht es mit unserem Camper weiter Richtung Süden. Unterwegs kommen wir an einem alten Kloster vorbei, das spektakulär in den Felsen direkt am Fluss gebaut wurde. Schließlich erreichen wir unser nächstes Ziel: die beeindruckenden Kravica-Wasserfälle – ein perfekter Ort, um die Natur zu genießen und den Tag ausklingen zu lassen.
+
 
 ![Bosnien02](/assets/images/Bosnien02.jpg){: width="30%"}
 ![Bosnien03](/assets/images/Bosnien03.jpg){: width="30%"}
@@ -52,7 +53,7 @@ Nach diesen kulinarischen Erlebnissen geht es mit unserem Camper weiter Richtung
 
 
 
-### Montenegro 
+## Montenegro 
 ![Podgorica](/assets/images/Montenegro01.jpg)
 
 Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischenstopp auf unserer Durchreise nach Nordmazedonien geplant, hat uns das Land so begeistert, dass wir spontan beschlossen, eine Nacht in der Nähe von Podgorica zu verbringen. Auf einem kleinen Weingut fanden wir einen charmanten Schlafplatz. Dort wird privat eine Weinverkostung mit Essen angeboten, und als besonderes Highlight durften wir im Garten der Gastgeber übernachten – ein unvergleichliches Erlebnis mitten in den Weinbergen mit sehr guten selbstgemachten Weinen - nur zu empfehlen! 
@@ -61,6 +62,7 @@ Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischens
 ![Montenegro03](/assets/images/Montenegro03.jpg){: width="30%"}
 ![Montenegro04](/assets/images/Montenegro04.jpg){: width="30%"}
 
+
 #### *Sehenswürdigkeiten:*
 * Podgorica
 * <a href="https://www.lonelyplanet.com/montenegro/podgorica/attractions/niagara-falls/a/poi-sig/1543410/360160">Nijagara Waterfall </a>
@@ -68,7 +70,7 @@ Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischens
 * Durmitor Ring
 
 
-### Nord Mazedonien 
+## Nord Mazedonien 
 ![Ohrid](/assets/images/Ohrid01.jpg)
 
 Unser drittes Land auf der Reise: Nordmazedonien. Hier besuchen wir Freunde im Süden des Landes, weshalb wir uns entschieden haben, den Rest des Landes für eine spätere, ausführlichere Reise aufzuheben. Wir machen uns also auf den Weg in das kleine Dorf am Ufer des Ohridsees, dem zweitgrößten See Nordmazedoniens und zugleich einem der ältesten Seen der Welt. Der Ohridsee erstreckt sich über zwei Länder – zur Hälfte liegt er in Nordmazedonien, die andere Hälfte gehört zu Albanien. Die Landschaft rund um den See ist atemberaubend, und wir freuen uns darauf, diese einzigartige Region zu erkunden und mehr von ihrer Geschichte und Schönheit zu erfahren, wenn wir das nächste Mal hierher zurückkehren.
@@ -82,6 +84,7 @@ Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über
 ![Ohrid](/assets/images/Ohrid03.jpg){: width="30%"}
 ![Ohrid](/assets/images/Ohrid04.jpg){: width="30%"}
 
+
 #### *Sehenswürdigkeiten:*
 * Ohrid See
 * Nationalpark Galičica
@@ -90,7 +93,7 @@ Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über
 
 
 
-### Albanien 
+## Albanien 
 ![Albanien](/assets/images/Albanien01.jpg)
 
 Nun haben wir unser viertes Land auf der Route und unser Hauptziel erreicht: Albanien. Der Balkan, und insbesondere Albanien, erlebt derzeit einen touristischen Aufschwung. Deshalb möchten wir die Landschaften und die Kultur Albaniens noch vor dem großen Ansturm erkunden. Nach über 2.000 Kilometern, die wir hinter uns gelassen haben, sind wir endlich angekommen – im Land mit den schlechtesten Straßen, die wir bisher gesehen haben. Es beginnt harmlos auf einem Highway, bis dieser plötzlich einspurig und letztlich komplett unbefahrbar wird. Wir finden uns auf einer holprigen Schotterpiste wieder und müssen uns durch unzählige Schlaglöcher kämpfen. Trotz dieser Herausforderungen lassen wir uns nicht entmutigen und setzen unseren Weg fort Richtung Berat, der „Stadt der 1000 Fenster“. Dieser Spitzname bezieht sich auf die vielen Fenster, die in die alten, traditionellen Wohnhäuser eingebaut sind. Wir freuen uns darauf, mehr von Albanien zu entdecken – mit all seinen Ecken, Kanten und seiner einzigartigen Schönheit.
@@ -100,7 +103,6 @@ Berat haben wir vor allem bei Nacht ins Herz geschlossen, denn da erwacht die St
 
 
 ![Albanien](/assets/images/Albanien012.jpg)
-
 
 Nach Berat ging es für uns in die bekannte Hafenstadt Vlorë. Dort erhoffen wir uns einen Stellplatz direkt am Meer, aber zuerst gibt es in den Lokalen im Zentrum erst einmal eine Stärkung. Nachdem wir uns auch das Stadtzentrum angesehen haben, machen wir uns mit vollem Kühlschrank in richtung Nationalpark. Dort haben wir über Park4Night wieder ein paar Stellplätze gespottet, die wir uns nicht entgehen lassen wollen. Und was sollen wir sagen, wir haben einen einsamen Strand entdeckt (anscheinend ist Mitte September die Badesaison in Albanien bereits zu ende), an dem wir uns es für die nächsten drei Tage gemütlich machen. Bevor es uns wieder in die nächstgrößere Stadt Gjirokater ziet. 
 
@@ -127,10 +129,9 @@ Die Tage am Meer waren wahrer Balsam für unsere Seelen. Drei volle Tage konnten
 * Permet - Thermal Baths 
 
 
-
-### Serbien 
+## Serbien 
 ![Serbien](/assets/images/Serbien01.jpg)
 
 
-### Budapest 
+## Budapest 
 ![Budapest](/assets/images/Budapest01.jpg)
