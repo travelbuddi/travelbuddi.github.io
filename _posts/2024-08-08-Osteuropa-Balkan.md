@@ -121,7 +121,11 @@ Entlang der SH4 schlängelten wir uns am Fluss Vjosa entlang durch das Gebirge u
 ![Albanien](/assets/images/Albanien06.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien07.jpg){: width="30%"}
 
+Nach unserem Abstecher ins Landesinnere zieht es uns nun an die albanische Küste. Unser Ziel: Ksamil. Statt den direkten Weg gen Süden zu nehmen, entscheiden wir uns für die atemberaubende Küstenstraße mit ihren Serpentinen. Der Ausblick, der uns hier begegnet, ist einfach spektakulär – die steil abfallenden Felsen, das tiefblaue Meer und die schroffe Küstenlandschaft lassen uns immer wieder anhalten und staunen.
 
+In Ksamil spüren wir den zunehmenden Tourismus, der im Landesinneren bislang noch weitgehend ausbleibt. Doch man sieht deutlich, dass Albanien derzeit stark in seine Infrastruktur investiert – überall begegnen uns Baustellen, die darauf hindeuten, dass sich hier einiges tut. Trotz der Bauarbeiten freuen wir uns, dass die Straßen ausgebaut werden, und können es kaum erwarten, die Küste weiter zu erkunden.
+
+Anschließend entscheiden wir uns noch für einen Aufenthalt in den Albanischen Alpanen. Daher heißt es: den ganzen Weg vom Süden wieder hinauf in den Norden. Durch die Streckenbeschaffenheit und auch die Serpentinenreiche Umgebung, dauert das eine ganze Weile. Demnach machen wir einen kleinen Zwischenstopp in Shkpodra am See, bevor wir die 2 stündige Fahrt nach Teth auf uns nehmen. Sidefact, wir haben mittlerweile 3.000 km Strecke zurückgelegt. 
 
 #### *Sehenswürdigkeiten:*
 * Berat - die Stadt der 1000 Fenster
