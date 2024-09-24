@@ -142,6 +142,15 @@ Anschließend entscheiden wir uns noch für einen Aufenthalt in den Albanischen 
 ## Serbien 
 ![Serbien](/assets/images/Serbien01.jpg)
 
+Nach unserer ausgiebigen Erkundung Albaniens führt uns unser Weg weiter nach Serbien. Vor allem die gut ausgebaute Autobahn ermöglicht es uns, schnell Strecke zu machen. Kaum über die Grenze, merken wir jedoch, dass der Herbst hier bereits in vollem Gange ist. Der Tara-Nationalpark zeigt sich in prachtvollen Herbstfarben, und die Nächte in unserem Van werden merklich kälter. Während wir in Albanien noch die warmen 38 Grad als „Luxusproblem“ empfunden haben, sprechen wir jetzt von gerade mal 6 Grad am Abend – ohne Standheizung wird es im Van schnell ziemlich frisch. Zum Glück haben wir warme Decken und Kleidung dabei, und wenn es doch zu kalt wird, hilft Kuscheln.
+
+Das Wetter hat uns bereits in Montenegro einen Strich durch die Rechnung gemacht, wo wir ursprünglich den Durmitor-Ring bewandern und abfahren wollten. Wegen der Kälte und dem ersten Schnee, für den wir nicht ausgerüstet waren, mussten wir diesen Plan schweren Herzens verschieben. Ähnlich ergeht es uns nun in Serbien: Obwohl der Tara-Nationalpark beeindruckend aussieht, entscheiden wir uns, die Besichtigung auf einen späteren Zeitpunkt zu verlegen. So setzen wir unsere Reise fort und erreichen am frühen Vormittag des dritten Tages Belgrad, die lebendige Hauptstadt Serbiens
+
+![Serbien](/assets/images/Serbien2.jpg){: width="30%"}
+![Serbien](/assets/images/Serbien3.jpg){: width="30%"}
+![Serbien](/assets/images/Serbien4.jpg){: width="30%"}
+
+
 
 ## Ungarn  
 ![Budapest](/assets/images/Budapest01.jpg)
