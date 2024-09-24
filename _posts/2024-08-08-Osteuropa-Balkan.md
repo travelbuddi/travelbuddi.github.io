@@ -75,6 +75,9 @@ Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischens
 Unser drittes Land auf der Reise: Nordmazedonien. Hier besuchen wir Freunde im Süden des Landes, weshalb wir uns entschieden haben, den Rest des Landes für eine spätere, ausführlichere Reise aufzuheben. Wir machen uns also auf den Weg in das kleine Dorf am Ufer des Ohridsees, dem zweitgrößten See Nordmazedoniens und zugleich einem der ältesten Seen der Welt. Der Ohridsee erstreckt sich über zwei Länder – zur Hälfte liegt er in Nordmazedonien, die andere Hälfte gehört zu Albanien. Die Landschaft rund um den See ist atemberaubend, und wir freuen uns darauf, diese einzigartige Region zu erkunden und mehr von ihrer Geschichte und Schönheit zu erfahren, wenn wir das nächste Mal hierher zurückkehren.
 
 
+Auch in der Stadt Ohrid selbst gibt es viel zu entdecken. Schon vom Ufer aus erblickt man die malerische Kirche des Heiligen Johannes von Kaneo, die auf einem Felsen über dem Ohridsee thront. Der Aufstieg zur Kirche mag anstrengend sein, doch die Aussicht von oben macht jede Mühe wett.
+Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über die Dächer von Ohrid. An jeder Ecke gibt es etwas Neues zu entdecken – sei es kleine versteckte Cafés oder historische Gebäude. Besonders beeindruckend sind die Türme der Samuil-Festung, die majestätisch über der Stadt thronen. Von dort aus hat man einen atemberaubenden Blick auf die Altstadt und den glitzernden Ohridsee. Diese Mischung aus Kultur, Geschichte und Natur macht Ohrid zu einem absoluten Highlight unserer Reise. Alles in allem ist dieser Ort nur zu empfehlen und ein echter Tipp gerade für ein paar Tage Seele baumeln lassen. Ein Geheimtipp ist die Stadt Ohrid leider nicht mehr und wird von vielen Touristen besucht. 
+
 ![Ohrid](/assets/images/Ohrid02.jpg){: width="30%"}
 ![Ohrid](/assets/images/Ohrid03.jpg){: width="30%"}
 ![Ohrid](/assets/images/Ohrid04.jpg){: width="30%"}
