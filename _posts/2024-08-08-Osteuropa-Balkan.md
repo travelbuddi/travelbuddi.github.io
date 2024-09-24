@@ -71,7 +71,6 @@ Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischens
 ### Nord Mazedonien 
 ![Ohrid](/assets/images/Ohrid01.jpg)
 
-
 Unser drittes Land auf der Reise: Nordmazedonien. Hier besuchen wir Freunde im Süden des Landes, weshalb wir uns entschieden haben, den Rest des Landes für eine spätere, ausführlichere Reise aufzuheben. Wir machen uns also auf den Weg in das kleine Dorf am Ufer des Ohridsees, dem zweitgrößten See Nordmazedoniens und zugleich einem der ältesten Seen der Welt. Der Ohridsee erstreckt sich über zwei Länder – zur Hälfte liegt er in Nordmazedonien, die andere Hälfte gehört zu Albanien. Die Landschaft rund um den See ist atemberaubend, und wir freuen uns darauf, diese einzigartige Region zu erkunden und mehr von ihrer Geschichte und Schönheit zu erfahren, wenn wir das nächste Mal hierher zurückkehren.
 
 
@@ -93,6 +92,14 @@ Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über
 ### Albanien 
 ![Albanien](/assets/images/Albanien01.jpg)
 
+Nun haben wir unser viertes Land auf der Route und unser Hauptziel erreicht: Albanien. Der Balkan, und insbesondere Albanien, erlebt derzeit einen touristischen Aufschwung. Deshalb möchten wir die Landschaften und die Kultur Albaniens noch vor dem großen Ansturm erkunden. Nach über 2.000 Kilometern, die wir hinter uns gelassen haben, sind wir endlich angekommen – im Land mit den schlechtesten Straßen, die wir bisher gesehen haben. Es beginnt harmlos auf einem Highway, bis dieser plötzlich einspurig und letztlich komplett unbefahrbar wird. Wir finden uns auf einer holprigen Schotterpiste wieder und müssen uns durch unzählige Schlaglöcher kämpfen. Trotz dieser Herausforderungen lassen wir uns nicht entmutigen und setzen unseren Weg fort Richtung Berat, der „Stadt der 1000 Fenster“. Wir freuen uns darauf, mehr von Albanien zu entdecken – mit all seinen Ecken, Kanten und seiner einzigartigen Schönheit.
+
+
+![Albanien](/assets/images/Albanien12.jpg)
+
+
+
+
 ![Albanien](/assets/images/Albanien02.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien03.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien04.jpg){: width="30%"}
@@ -101,8 +108,6 @@ Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über
 ![Albanien](/assets/images/Albanien06.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien07.jpg){: width="30%"}
 
-
-![Albanien](/assets/images/Albanien12.jpg)
 
 ### Serbien 
 ![Serbien](/assets/images/Serbien01.jpg)
