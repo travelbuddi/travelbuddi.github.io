@@ -32,7 +32,7 @@ Am nächsten Morgen ging es dann immer weiter der Sonne hinterher, bis wir in Sp
 Unser nächster Halt war in Bosninen & Herzegowina am wunderschönen Buško jezero (siehe Bild), der größte See des Landes. Diesen Spot haben über Park4Night entdeckt, und konnte ganz abseits der touristischen Städte die Ruhe des Sees genießen. Etwas hinter der Ländergrenze nehmen wir eine sehr unscheinbare Straße, welche uns zu unserem Schlafplatz der letzten zwei Nächte führt. Dort könnn wir nicht nur ungestört (mit Ausnahmen einiger freundlicher Fischer) die Seele baumeln lassen, Bücher lesen, Joggen gehen und im See baden, sondern auch kochen, kniffeln und schlafen. Die gesamten 3 Tage haben wir nur vereinzelt ein paar Leute getroffen, und meist waren es lokale Fischer, die dort bis in die Nacht hinein fischten. Trotz Sprachunterschiede mit Händen und Füßen ein wenig unterhalten können.
 
 
-Unsere Weitereise bringt und nach Mostar. Mostar ist für seine unglaublichen Brücken bekannt. Heute haben wir leider keine Personen von dort oben springen sehen, wenn wir Glück haben, sehen wir noch welche bei unserer <a href="https://www.guruwalk.com/de/walks/34705-shevas-free-walking-tour-durch-mostar-entdecken-sie-die-vergangenheit-verstehen-sie-unsere-gegenwart">Free Walking Tour</a> durch die Stadt. Wir verbringen 2 ganze Tage in der Stadt und kosten uns durch die Vielfalt der traditionelllen Gerichte. Da wir uns beide vegetarisch ernähnren, kann es gerade im Balkan ab und zu herausfordernd sein etwas passendes und traditionelles zu finden. In Mostar können wir jedoch noch ein Kaffeehaus empfehlen, welches den ältesten Kaffe (und auch wirklich lecker) in Mostar zubereitet. Es ist das kleine Häusschen oberhalbt der Brücke Stari Most. Der Eingang ist etwas versteckt, hinter einem Touristen Laden, wo eine Treppe nach oben in das kleine verwunschene Kaffee führt. 
+Unsere Weitereise bringt und nach Mostar. Mostar ist für seine unglaublichen Brücken bekannt. Heute haben wir leider keine Personen von dort oben springen sehen, wenn wir Glück haben, sehen wir noch welche bei unserer <a href="https://www.guruwalk.com/de/walks/34705-shevas-free-walking-tour-durch-mostar-entdecken-sie-die-vergangenheit-verstehen-sie-unsere-gegenwart">Free Walking Tour</a> durch die Stadt. Wir verbringen zwei ganze Tage in der Stadt und kosten uns durch die Vielfalt der traditionelllen Gerichte. Da wir uns beide vegetarisch ernähnren, kann es gerade im Balkan ab und zu herausfordernd sein etwas passendes und traditionelles zu finden. In Mostar können wir jedoch noch ein Kaffeehaus empfehlen, welches den ältesten Kaffe (und auch wirklich lecker) in Mostar zubereitet. Es ist das kleine Häusschen oberhalbt der Brücke Stari Most. Der Eingang ist etwas versteckt, hinter einem Touristen Laden, wo eine Treppe nach oben in das kleine verwunschene Kaffee führt. 
 
 Anschließend geht es mit unserem Camper weiter Richtung Süden. Auf dem Weg kommen wir noch an einem alten Kloster, welches im Felsen direkt am Fluss errichtet wurde, bis wir an unserem nächsten Spot, den Kravica Wasserfällen ankommen. 
 
@@ -52,11 +52,11 @@ Anschließend geht es mit unserem Camper weiter Richtung Süden. Auf dem Weg kom
 ### Montenegro 
 ![Podgorica](/assets/images/Montenegro01.jpg)
 
-Das nächste Land auf unserer Liste ist: Montenegro.
+Das nächste Land auf unserer Liste ist: Montenegro. Zunächst ist Montenegro nur ein Zwischenstopp für uns, da wir auf der Durchreise nach Nord Mazedonien sind. Es gefällt uns aber doch so gut, dass wir uns für eine Nacht in der Nähe der Hauptstadt Podgorica einen Schlafplatz auf einem Weinfeld suchen. Das Ganze ist privat veranstaltet und man bekommt eine Weinverkostung inkl. Essen und darf dafür bei den Leuten im Garten übernachten. 
 
 #### *Seehenswürdigkeiten:*
 * Podgorica
-* Nijagara Waterfall
+* <a href="https://www.lonelyplanet.com/montenegro/podgorica/attractions/niagara-falls/a/poi-sig/1543410/360160">Nijagara Waterfall </a>
 * Weinverkostung
 * Durmitor Ring
 
