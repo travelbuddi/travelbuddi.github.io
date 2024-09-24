@@ -48,7 +48,7 @@ Hier muss man vor allem beachten, in welchem Zsuammenhang das  geplante Teil mit
 
 
 
-**####Herausforderungen:** 
+**Herausforderungen:** 
 * **Messung und Genauigkeit**: Als eine der größten Herausforderungen würden wir tatsächlich sagen, war es den gesamten Ausbau zu planen und die richtigen Maße zu nehmen, um alles so genau wie emöglich zu konstruieren. Und da es sich um ein Auto handelt, sind die Wände nicht gerade sondern eher krum und schief. 
 
 * **Elektrik**: Da wir beide keine ausgebildeten Elektriker sind, rückte das Thema Elektrik zunächst in den Hintergrund. Dennoch hatten wir es stets im Hinterkopf. Zu Beginn erstellten wir einen groben Plan, wie der Stromkreis im Van verlaufen sollte, um Kurzschlüsse zu vermeiden und alles sicher zu installieren. Dabei wurde uns schnell klar, wie zeitintensiv bereits die Planung der Elektrik ist – viel mehr, als wir ursprünglich angenommen hatten. 
