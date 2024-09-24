@@ -32,20 +32,19 @@ Als allererstes haben wir einen Autoradio verbaut, dazu mehr, sowie Tipps und Tr
 
 
 
-![VW](/assets/images/Ausbau02.jpg){: width="30%"}
-![VW](/assets/images/Ausbau03.jpg){: width="30%"}
-![VW](/assets/images/Ausbau04.jpg){: width="30%"}
-
+![VW](/assets/images/Ausbau07.jpg){: width="30%"}
+![VW](/assets/images/Ausbau06.jpg){: width="30%"}
+![VW](/assets/images/Ausbau08.jpg){: width="30%"}
 
 
 Ich hatte bereits erwähnt, dass eine gründliche Planung das A und O des gesamten Prozesses ist. Dennoch mussten wir während des Ausbaus immer wieder feststellen, dass unvorhergesehene Herausforderungen auftraten, die wir im Voraus nicht bedacht hatten. Dies führte dazu, dass wir häufig unseren ursprünglichen Plan überarbeiten und anpassen mussten. Was wir nun auch im nächsten Schritt festgestellt haben. Da wir relativ zeitnah mit dem Van losfahren wollen, war das Bett aus unserer Sicht daher das Wichtigste um zu starten. Also beginnen wir mit dem Bau des Bettes. Dabei müssen wir jedoch beachten, dass die Planung des Bettes – unserer Meinung nach das Herzstück des Campervans – auch die Maße für alle anderen Elemente beeinflusst.
 
 Hier muss man vor allem beachten, in welchem Zsuammenhang das  geplante Teil mit den jeweils anderen Funktionen des Campers stehen soll, z.B. den Maßen für die Küche oder der Verstauflächen uns auch den Auszügen. Es gilt also, den Innenraum präzise auszumessen und die entsprechenden Maße zu überlegen. Wenn man beispielsweise ein möglichst großes Bett einplant, könnte am Ende der Platz für Stauraum fehlen. Außerdem darf das Bett nicht zu hoch sein, da man sonst nicht mehr aufrecht sitzen kann, aber auch nicht zu niedrig, um wertvollen Stauraum darunter nicht zu verlieren. Diese Fragen sind entscheidend und sollten vor dem Ausbau und der Umsetzung geklärt werden. Da wir jedoch noch nie ein solches Projekt in die Realität umgesetzt hatten, waren wir uns unsicher, woher wir dieses Wissen nehmen sollten. Dennoch war uns klar, dass wir, da wir beide relativ groß sind, uns im Bett gerne ausstrecken möchten. Bei der Breite des Bettes waren wir bereit, etwas zu sparen, da wir keine Probleme mit engen Platzverhältnissen haben. Doch die detailierte Plaung und den dazugehörigen Ausbau des Bettes findest du HIER. Und die richtigen Maße finden, zieht sich wie ein roter Faden durch den gesamten Ausbau, da muss jeder für sich selber entscheiden was einem wichtiger ist, ob das nun viel Liegefläche, eine gute Sitzhöhe oder viel Stauraum ist. 
 
-![VW](/assets/images/Ausbau07.jpg){: width="30%"}
-![VW](/assets/images/Ausbau06.jpg){: width="30%"}
-![VW](/assets/images/Ausbau08.jpg){: width="30%"}
 
+![VW](/assets/images/Ausbau02.jpg){: width="30%"}
+![VW](/assets/images/Ausbau03.jpg){: width="30%"}
+![VW](/assets/images/Ausbau04.jpg){: width="30%"}
 
 
 **Herausforderungen:** 
@@ -55,7 +54,6 @@ Hier muss man vor allem beachten, in welchem Zsuammenhang das  geplante Teil mit
 
 
 * **Zeit**: Die Recherche zu den verschiedenen Themenbereichen ist nicht nur zeitaufwendig, sondern wird auch oft unterschätzt. Hinzu kommt die Materialbeschaffung, die ebenfalls viel Zeit in Anspruch nimmt. Mit jedem Schritt scheint sich ein neues Hindernis aufzutun, sodass wir mehr Zeit in Baumärkten und Online-Shops verbracht haben, als uns lieb war.
-
  
 
 **Tipps & Tricks:** 
@@ -64,9 +62,10 @@ Hier muss man vor allem beachten, in welchem Zsuammenhang das  geplante Teil mit
 * **Internet sinnvoll nutzen**: Nutze Online-Ressourcen für Inspiration und Lösungsansätze – man muss das Rad nicht neu erfinden.
 * **Hilfe annehmen**: Scheue dich nicht, Unterstützung von Freunden oder Experten in Anspruch zu nehmen.
 * **Mut zum Ausprobieren**: Manchmal hilft es, einfach loszulegen und Dinge auszuprobieren – Ganz nach dem Mott: Learning by Doing!
+* **Einrichtung anpassen**: Bei der Einrichtung vor allem sperigen Gegenständen vorsichtig sein, ob sich das alles gut verstauen lässt, wie beispielsweise Stühle und Kochutensilien, sodass während des Fahrens nichts verrutscht. 
 
 **Das Ergebnis:** 
-* 
+* Was sollen wir sagen – wir sind absolut begeistert vom Ergebnis! Unser Van hat bereits einige Urlaube im ausgebauten Zustand erlebt, und bisher gab es nichts, das nicht funktioniert hätte. Da es sich um einen Multivan handelt, ist der Tisch in der Schiebetür verstaut, sodass kein zusätzlicher Stauraum nötig ist. Obwohl wir den kompletten Ausbau, von der Planung bis zur Fertigstellung, nicht ganz in sieben Tagen geschafft haben, ist das Ergebnis genau so geworden, wie wir es uns vorgestellt haben. Ohne die zusätzliche Zeit hätten wir das Projekt in dieser Form vermutlich nicht so erfolgreich umsetzen können.
 
 **Unser ausgebauter Campervan - Wollma:** 
 
