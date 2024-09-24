@@ -31,15 +31,6 @@ Doch wir wollten mehr: Unser Plan umfasst ein richtiges Bett statt der umgeklapp
 Als allererstes haben wir einen Autoradio verbaut, dazu mehr, sowie Tipps und Tricks, findest du in unserem <a href="{% post_url 2023-03-31-campervan-part1-radio %}">Part 1 - Radio Upgrade - Campervan Umbau</a>. 
 
 
-![VWT5](/assets/images/Ausbau01.jpg)
-
-
-Als nächstes haben wir die Innenverkleidung des VW Busses entfernt, um die Isolierung anzubringen. Ihr könnt euch sicher vorstellen, welch umfangreiche und anspruchsvolle Arbeit das war. Fingerspitzengefühl und Ausdauer waren gefragt, und wir mussten mehrere Stunden investieren – das hatten wir zunächst nicht eingeplant. Für die Isolierung haben wir uns für ARMAFLEX entschieden – ein selbstklebendes Material (*keine Werbung), das sowohl kostengünstig ist als auch seinen Zweck hervorragend erfüllt. Spoiler: Es haftet wirklich extrem gut! Nachdem wir alles abmontiert und vorbereitet hatten, konnten wir die Isolierung anbringen.
-
-Ich hatte bereits erwähnt, dass eine gründliche Planung das A und O des gesamten Prozesses ist. Dennoch mussten wir während des Ausbaus immer wieder feststellen, dass unvorhergesehene Herausforderungen auftraten, die wir im Voraus nicht bedacht hatten. Dies führte dazu, dass wir häufig unseren ursprünglichen Plan überarbeiten und anpassen mussten. Was wir nun auch im nächsten Schritt festgestellt haben. Da wir relativ zeitnah mit dem Van losfahren wollen, ist das Bett aus unserer Sicht daher das Wichtigste um zu starten. Also beginnen wir mit dem Bau des Bettes. Dabei müssen wir jedoch beachten, dass die Planung des Bettes – unserer Meinung nach das Herzstück des Campervans – auch die Maße für alle anderen Elemente beeinflusst.
-
-Da man wie bei dem Bau des Bettes zum einen beachten musste in welchem Zsuammenhang das mit den jeweils anderen Funktionen des Campers stehen soll, z.B. den Maßen für die Küche oder der Verstauflächen uns auch den Auszügen. Es gilt also, den Innenraum präzise auszumessen und die entsprechenden Maße zu überlegen. Wenn man ein möglichst großes Bett einplant, könnte am Ende der Platz für Stauraum fehlen. Außerdem darf das Bett nicht zu hoch sein, da man sonst nicht mehr aufrecht sitzen kann, aber auch nicht zu niedrig, um wertvollen Stauraum darunter nicht zu verlieren. Diese Fragen sind entscheidend und sollten vor dem Ausbau und der Umsetzung geklärt werden. Da wir jedoch noch nie ein solches Projekt in die Realität umgesetzt hatten, waren wir uns unsicher, woher wir dieses Wissen nehmen sollten. Dennoch war uns klar, dass wir, da wir beide relativ groß sind, uns im Bett gerne ausstrecken möchten. Bei der Breite des Bettes waren wir bereit, etwas zu sparen, da wir keine Probleme mit engen Platzverhältnissen haben. Doch die detailierte Plaung und den dazugehörigen Ausbau des Bettes findest du HIER. 
-
 
 ![VW](/assets/images/Ausbau02.jpg){: width="30%"}
 ![VW](/assets/images/Ausbau03.jpg){: width="30%"}
@@ -47,22 +38,32 @@ Da man wie bei dem Bau des Bettes zum einen beachten musste in welchem Zsuammenh
 
 
 
-**Herausforderungen:** 
-* Messung und Genauigkeit: Als eine der größten Herausforderungen würden wir tatsächlich sagen, war es den gesamten Ausbau zu planen und die richtigen Maße zu nehmen, um alles so genau wie emöglich zu konstruieren. Und da es sich um ein Auto handelt, sind die Wände nicht gerade sondern eher krum und schief. 
+Ich hatte bereits erwähnt, dass eine gründliche Planung das A und O des gesamten Prozesses ist. Dennoch mussten wir während des Ausbaus immer wieder feststellen, dass unvorhergesehene Herausforderungen auftraten, die wir im Voraus nicht bedacht hatten. Dies führte dazu, dass wir häufig unseren ursprünglichen Plan überarbeiten und anpassen mussten. Was wir nun auch im nächsten Schritt festgestellt haben. Da wir relativ zeitnah mit dem Van losfahren wollen, war das Bett aus unserer Sicht daher das Wichtigste um zu starten. Also beginnen wir mit dem Bau des Bettes. Dabei müssen wir jedoch beachten, dass die Planung des Bettes – unserer Meinung nach das Herzstück des Campervans – auch die Maße für alle anderen Elemente beeinflusst.
 
-* Elektrik: Da wir beide keine ausgebildeten Elektriker sind, rückte das Thema Elektrik zunächst in den Hintergrund. Dennoch hatten wir es stets im Hinterkopf. Zu Beginn erstellten wir einen groben Plan, wie der Stromkreis im Van verlaufen sollte, um Kurzschlüsse zu vermeiden und alles sicher zu installieren. Dabei wurde uns schnell klar, wie zeitintensiv bereits die Planung der Elektrik ist – viel mehr, als wir ursprünglich angenommen hatten. 
+Hier muss man vor allem beachten, in welchem Zsuammenhang das  geplante Teil mit den jeweils anderen Funktionen des Campers stehen soll, z.B. den Maßen für die Küche oder der Verstauflächen uns auch den Auszügen. Es gilt also, den Innenraum präzise auszumessen und die entsprechenden Maße zu überlegen. Wenn man beispielsweise ein möglichst großes Bett einplant, könnte am Ende der Platz für Stauraum fehlen. Außerdem darf das Bett nicht zu hoch sein, da man sonst nicht mehr aufrecht sitzen kann, aber auch nicht zu niedrig, um wertvollen Stauraum darunter nicht zu verlieren. Diese Fragen sind entscheidend und sollten vor dem Ausbau und der Umsetzung geklärt werden. Da wir jedoch noch nie ein solches Projekt in die Realität umgesetzt hatten, waren wir uns unsicher, woher wir dieses Wissen nehmen sollten. Dennoch war uns klar, dass wir, da wir beide relativ groß sind, uns im Bett gerne ausstrecken möchten. Bei der Breite des Bettes waren wir bereit, etwas zu sparen, da wir keine Probleme mit engen Platzverhältnissen haben. Doch die detailierte Plaung und den dazugehörigen Ausbau des Bettes findest du HIER. Und die richtigen Maße finden, zieht sich wie ein roter Faden durch den gesamten Ausbau. 
+
+![VW](/assets/images/Ausbau06.jpg){: width="30%"}
+![VW](/assets/images/Ausbau07.jpg){: width="30%"}
+![VW](/assets/images/Ausbau08.jpg){: width="30%"}
 
 
-* Zeit: Die Recherche zu den verschiedenen Themenbereichen ist nicht nur zeitaufwendig, sondern wird auch oft unterschätzt. Hinzu kommt die Materialbeschaffung, die ebenfalls viel Zeit in Anspruch nimmt. Mit jedem Schritt scheint sich ein neues Hindernis aufzutun, sodass wir mehr Zeit in Baumärkten und Online-Shops verbracht haben, als uns lieb war.
+
+**####Herausforderungen:** 
+* **Messung und Genauigkeit**: Als eine der größten Herausforderungen würden wir tatsächlich sagen, war es den gesamten Ausbau zu planen und die richtigen Maße zu nehmen, um alles so genau wie emöglich zu konstruieren. Und da es sich um ein Auto handelt, sind die Wände nicht gerade sondern eher krum und schief. 
+
+* **Elektrik**: Da wir beide keine ausgebildeten Elektriker sind, rückte das Thema Elektrik zunächst in den Hintergrund. Dennoch hatten wir es stets im Hinterkopf. Zu Beginn erstellten wir einen groben Plan, wie der Stromkreis im Van verlaufen sollte, um Kurzschlüsse zu vermeiden und alles sicher zu installieren. Dabei wurde uns schnell klar, wie zeitintensiv bereits die Planung der Elektrik ist – viel mehr, als wir ursprünglich angenommen hatten. 
+
+
+* **Zeit**: Die Recherche zu den verschiedenen Themenbereichen ist nicht nur zeitaufwendig, sondern wird auch oft unterschätzt. Hinzu kommt die Materialbeschaffung, die ebenfalls viel Zeit in Anspruch nimmt. Mit jedem Schritt scheint sich ein neues Hindernis aufzutun, sodass wir mehr Zeit in Baumärkten und Online-Shops verbracht haben, als uns lieb war.
 
  
 
 **Tipps & Tricks:** 
-* Genügend Zeit einplanen: Sowohl für die Recherche als auch für die Materialbeschaffung sollte ausreichend Zeit einkalkuliert werden.
-* Pausen einlegen: Gönne dir regelmäßig Pausen, um neue Energie zu tanken und den Kopf frei zu bekommen.
-* Internet sinnvoll nutzen: Nutze Online-Ressourcen für Inspiration und Lösungsansätze – man muss das Rad nicht neu erfinden.
-* Hilfe annehmen: Scheue dich nicht, Unterstützung von Freunden oder Experten in Anspruch zu nehmen.
-* Mut zum Ausprobieren: Manchmal hilft es, einfach loszulegen und Dinge auszuprobieren – Ganz nach dem Mott: Learning by Doing!
+* **Genügend Zeit einplanen**: Sowohl für die Recherche als auch für die Materialbeschaffung sollte ausreichend Zeit einkalkuliert werden.
+* **Pausen einlegen**: Gönne dir regelmäßig Pausen, um neue Energie zu tanken und den Kopf frei zu bekommen.
+* **Internet sinnvoll nutzen**: Nutze Online-Ressourcen für Inspiration und Lösungsansätze – man muss das Rad nicht neu erfinden.
+* **Hilfe annehmen**: Scheue dich nicht, Unterstützung von Freunden oder Experten in Anspruch zu nehmen.
+* **Mut zum Ausprobieren**: Manchmal hilft es, einfach loszulegen und Dinge auszuprobieren – Ganz nach dem Mott: Learning by Doing!
 
 **Das Ergebnis:** 
 * 
