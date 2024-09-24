@@ -42,8 +42,8 @@ Ich hatte bereits erwähnt, dass eine gründliche Planung das A und O des gesamt
 
 Hier muss man vor allem beachten, in welchem Zsuammenhang das  geplante Teil mit den jeweils anderen Funktionen des Campers stehen soll, z.B. den Maßen für die Küche oder der Verstauflächen uns auch den Auszügen. Es gilt also, den Innenraum präzise auszumessen und die entsprechenden Maße zu überlegen. Wenn man beispielsweise ein möglichst großes Bett einplant, könnte am Ende der Platz für Stauraum fehlen. Außerdem darf das Bett nicht zu hoch sein, da man sonst nicht mehr aufrecht sitzen kann, aber auch nicht zu niedrig, um wertvollen Stauraum darunter nicht zu verlieren. Diese Fragen sind entscheidend und sollten vor dem Ausbau und der Umsetzung geklärt werden. Da wir jedoch noch nie ein solches Projekt in die Realität umgesetzt hatten, waren wir uns unsicher, woher wir dieses Wissen nehmen sollten. Dennoch war uns klar, dass wir, da wir beide relativ groß sind, uns im Bett gerne ausstrecken möchten. Bei der Breite des Bettes waren wir bereit, etwas zu sparen, da wir keine Probleme mit engen Platzverhältnissen haben. Doch die detailierte Plaung und den dazugehörigen Ausbau des Bettes findest du HIER. Und die richtigen Maße finden, zieht sich wie ein roter Faden durch den gesamten Ausbau, da muss jeder für sich selber entscheiden was einem wichtiger ist, ob das nun viel Liegefläche, eine gute Sitzhöhe oder viel Stauraum ist. 
 
-![VW](/assets/images/Ausbau06.jpg){: width="30%"}
 ![VW](/assets/images/Ausbau07.jpg){: width="30%"}
+![VW](/assets/images/Ausbau06.jpg){: width="30%"}
 ![VW](/assets/images/Ausbau08.jpg){: width="30%"}
 
 
