@@ -171,3 +171,14 @@ Zu guter Letzt haben wir Ungarn durchquert und die Städte Kecskemét und Budape
 ![Ungarn](/assets/images/Ungarn2.jpg){: width="30%"}
 ![Ungarn](/assets/images/Ungarn3.jpg){: width="30%"}
 ![Ungarn](/assets/images/Ungarn4.jpg){: width="30%"}
+
+
+#### *Sehenswürdigkeiten:*
+* Burgpalast 
+* Budapest Market Hall 
+* Fischerbastei
+* St. Stephans Basilika 
+* Therme Széchenyi inkl. Bierspa
+* Kettenbrücke
+* Ruinen Bars 
+* Heldenplatz 
