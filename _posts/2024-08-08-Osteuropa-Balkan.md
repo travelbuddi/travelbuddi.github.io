@@ -113,6 +113,10 @@ Nach Berat ging es für uns in die bekannte Hafenstadt Vlorë. Dort erhoffen wir
 
 Die Tage am Meer waren wahrer Balsam für unsere Seelen. Drei volle Tage konnten wir ungestört am Strand liegen, uns sonnen und im kristallklaren Wasser baden. Doch irgendwann packte uns erneut die Abenteuerlust, und so machten wir uns auf den Weg nach Gjirokastra – einer Stadt, die als eines der wichtigsten Kulturerben Albaniens gilt und uns mit ihrer beeindruckenden Lage am Berg sofort in ihren Bann zog. Kaum angekommen, begann es leider zu regnen. Als wir dann zum ersten Mal seit Wochen das Wetter checkten, stellten wir fest, dass es ab der kommenden Woche deutlich kälter und unbeständiger werden soll. Der Herbst kündigt sich an, und wir müssen uns auf kühleres Wetter in Albanien einstellen. Oh nein! Daher heißt es für uns, erstmal keine Übernachtung in Gjirokastra - aber definitv einen Besuch wert - und weiter zu unserem nächsten Stopp. 
 
+Nach unserem Aufenthalt in Gjirokastra führte uns die Reise auf eine enge, kurvenreiche Straße, begleitet von strömendem Regen, nach Benje-Novosele. Dort wollten wir die berühmten Thermalbäder Albaniens erkunden. Bei den aktuellen Temperaturen und dem anhaltenden Regen klangen die 38 Grad warmen Naturbäder besonders verlockend.
+
+Entlang der SH4 schlängelten wir uns am Fluss Vjosa entlang durch das Gebirge und erreichten schließlich die Stadt Permet. Hier fanden wir einen Campingplatz direkt am Fluss, wo wir für die Nacht blieben. Doch der Regen ließ nicht nach – über Nacht goss es wie aus Eimern. Während wir uns schon Sorgen machten, weggeschwemmt zu werden, stellte sich heraus, dass unser Van nicht nur eine gründliche Reinigung von der salzigen Meeresgischt bekam, sondern auch der Fluss über Nacht kräftig angeschwollen war. Am frühen Morgen machen wir uns auf den Weg und fahren eine noch engere Straße entland bis wir die Thermalbäder erreichen. Auch hier Triggerwarnung: es riecht sehr intensiv nach Schwefel! 
+
 ![Albanien](/assets/images/Albanien05.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien06.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien07.jpg){: width="30%"}
@@ -121,7 +125,7 @@ Die Tage am Meer waren wahrer Balsam für unsere Seelen. Drei volle Tage konnten
 
 #### *Sehenswürdigkeiten:*
 * Berat - die Stadt der 1000 Fenster
-* Vlorë
+* Vlorë - die Hafenstadt 
 * Gjirokastra
 * Shkodra - Stadt und See
 * Teth - Albanische Alpen 
@@ -133,5 +137,5 @@ Die Tage am Meer waren wahrer Balsam für unsere Seelen. Drei volle Tage konnten
 ![Serbien](/assets/images/Serbien01.jpg)
 
 
-## Budapest 
+## Ungarn  
 ![Budapest](/assets/images/Budapest01.jpg)
