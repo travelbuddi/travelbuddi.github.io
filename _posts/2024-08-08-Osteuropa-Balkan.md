@@ -95,7 +95,7 @@ Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über
 Nun haben wir unser viertes Land auf der Route und unser Hauptziel erreicht: Albanien. Der Balkan, und insbesondere Albanien, erlebt derzeit einen touristischen Aufschwung. Deshalb möchten wir die Landschaften und die Kultur Albaniens noch vor dem großen Ansturm erkunden. Nach über 2.000 Kilometern, die wir hinter uns gelassen haben, sind wir endlich angekommen – im Land mit den schlechtesten Straßen, die wir bisher gesehen haben. Es beginnt harmlos auf einem Highway, bis dieser plötzlich einspurig und letztlich komplett unbefahrbar wird. Wir finden uns auf einer holprigen Schotterpiste wieder und müssen uns durch unzählige Schlaglöcher kämpfen. Trotz dieser Herausforderungen lassen wir uns nicht entmutigen und setzen unseren Weg fort Richtung Berat, der „Stadt der 1000 Fenster“. Wir freuen uns darauf, mehr von Albanien zu entdecken – mit all seinen Ecken, Kanten und seiner einzigartigen Schönheit.
 
 
-![Albanien](/assets/images/Albanien12.jpg)
+![Albanien](/assets/images/Albanien012.jpg)
 
 
 
