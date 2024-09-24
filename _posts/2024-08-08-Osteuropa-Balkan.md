@@ -77,13 +77,14 @@ Unser drittes Land auf der Reise: Nordmazedonien. Hier besuchen wir Freunde im S
 
 
 Auch in der Stadt Ohrid selbst gibt es viel zu entdecken. Schon vom Ufer aus erblickt man die malerische Kirche des Heiligen Johannes von Kaneo, die auf einem Felsen über dem Ohridsee thront. Der Aufstieg zur Kirche mag anstrengend sein, doch die Aussicht von oben macht jede Mühe wett.
-Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über die Dächer von Ohrid. An jeder Ecke gibt es etwas Neues zu entdecken – sei es kleine versteckte Cafés oder historische Gebäude. Besonders beeindruckend sind die Türme der Samuil-Festung, die majestätisch über der Stadt thronen. Von dort aus hat man einen atemberaubenden Blick auf die Altstadt und den glitzernden Ohridsee. Diese Mischung aus Kultur, Geschichte und Natur macht Ohrid zu einem absoluten Highlight unserer Reise. Alles in allem ist dieser Ort nur zu empfehlen und ein echter Tipp gerade für ein paar Tage Seele baumeln lassen. Ein Geheimtipp ist die Stadt Ohrid leider nicht mehr und wird von vielen Touristen besucht. 
+Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über die Dächer von Ohrid. An jeder Ecke gibt es etwas Neues zu entdecken – sei es kleine versteckte Cafés oder historische Gebäude. Besonders beeindruckend sind die Türme der Samuil-Festung, die majestätisch über der Stadt thronen. Von dort aus hat man einen atemberaubenden Blick auf die Altstadt und den glitzernden Ohridsee. Diese Mischung aus Kultur, Geschichte und Natur macht Ohrid zu einem absoluten Highlight unserer Reise. Alles in allem ist dieser Ort nur zu empfehlen und ein echter Tipp gerade für ein paar Tage Seele baumeln lassen.
 
 
 ![Ohrid](/assets/images/Ohrid02.jpg){: width="30%"}
 ![Ohrid](/assets/images/Ohrid03.jpg){: width="30%"}
 ![Ohrid](/assets/images/Ohrid04.jpg){: width="30%"}
 
+ Ein Geheimtipp ist die Stadt Ohrid leider nicht mehr und wird von vielen Touristen besucht. 
 
 #### *Sehenswürdigkeiten:*
 * Ohrid See
@@ -104,7 +105,8 @@ Berat haben wir vor allem bei Nacht ins Herz geschlossen, denn da erwacht die St
 
 ![Albanien](/assets/images/Albanien012.jpg)
 
-Nach Berat ging es für uns in die bekannte Hafenstadt Vlorë. Dort erhoffen wir uns einen Stellplatz direkt am Meer, aber zuerst gibt es in den Lokalen im Zentrum erst einmal eine Stärkung. Nachdem wir uns auch das Stadtzentrum angesehen haben, machen wir uns mit vollem Kühlschrank in richtung Nationalpark. Dort haben wir über Park4Night wieder ein paar Stellplätze gespottet, die wir uns nicht entgehen lassen wollen. Und was sollen wir sagen, wir haben einen einsamen Strand entdeckt (anscheinend ist Mitte September die Badesaison in Albanien bereits zu ende), an dem wir uns es für die nächsten drei Tage gemütlich machen. Bevor es uns wieder in die nächstgrößere Stadt Gjirokater ziet. 
+Nach Berat ging es für uns in die bekannte Hafenstadt Vlorë. Dort erhoffen wir uns einen Stellplatz direkt am Meer, aber zuerst gibt es in den Lokalen im Zentrum erst einmal eine Stärkung. Nachdem wir uns auch das Stadtzentrum angesehen haben, machen wir uns mit vollem Kühlschrank in richtung Nationalpark. Dort haben wir über Park4Night wieder ein paar Stellplätze gespottet, die wir uns nicht entgehen lassen wollen. Und was sollen wir sagen, wir haben einen einsamen Strand entdeckt (anscheinend ist Mitte September die Badesaison in Albanien bereits zu ende), an dem wir uns es für die nächsten drei Tage gemütlich machen. 
+Bevor es uns wieder in die nächstgrößere Stadt Gjirokater zieht. 
 
 ![Albanien](/assets/images/Albanien02.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien03.jpg){: width="30%"}
