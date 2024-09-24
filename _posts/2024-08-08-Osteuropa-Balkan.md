@@ -92,17 +92,22 @@ Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über
 ### Albanien 
 ![Albanien](/assets/images/Albanien01.jpg)
 
-Nun haben wir unser viertes Land auf der Route und unser Hauptziel erreicht: Albanien. Der Balkan, und insbesondere Albanien, erlebt derzeit einen touristischen Aufschwung. Deshalb möchten wir die Landschaften und die Kultur Albaniens noch vor dem großen Ansturm erkunden. Nach über 2.000 Kilometern, die wir hinter uns gelassen haben, sind wir endlich angekommen – im Land mit den schlechtesten Straßen, die wir bisher gesehen haben. Es beginnt harmlos auf einem Highway, bis dieser plötzlich einspurig und letztlich komplett unbefahrbar wird. Wir finden uns auf einer holprigen Schotterpiste wieder und müssen uns durch unzählige Schlaglöcher kämpfen. Trotz dieser Herausforderungen lassen wir uns nicht entmutigen und setzen unseren Weg fort Richtung Berat, der „Stadt der 1000 Fenster“. Wir freuen uns darauf, mehr von Albanien zu entdecken – mit all seinen Ecken, Kanten und seiner einzigartigen Schönheit.
+Nun haben wir unser viertes Land auf der Route und unser Hauptziel erreicht: Albanien. Der Balkan, und insbesondere Albanien, erlebt derzeit einen touristischen Aufschwung. Deshalb möchten wir die Landschaften und die Kultur Albaniens noch vor dem großen Ansturm erkunden. Nach über 2.000 Kilometern, die wir hinter uns gelassen haben, sind wir endlich angekommen – im Land mit den schlechtesten Straßen, die wir bisher gesehen haben. Es beginnt harmlos auf einem Highway, bis dieser plötzlich einspurig und letztlich komplett unbefahrbar wird. Wir finden uns auf einer holprigen Schotterpiste wieder und müssen uns durch unzählige Schlaglöcher kämpfen. Trotz dieser Herausforderungen lassen wir uns nicht entmutigen und setzen unseren Weg fort Richtung Berat, der „Stadt der 1000 Fenster“. Dieser Spitzname bezieht sich auf die vielen Fenster, die in die alten, traditionellen Wohnhäuser eingebaut sind. Wir freuen uns darauf, mehr von Albanien zu entdecken – mit all seinen Ecken, Kanten und seiner einzigartigen Schönheit.
 
 
 ![Albanien](/assets/images/Albanien012.jpg)
 
+Berat haben wir vor allem bei Nacht ins Herz geschlossen, denn da erwacht die Stadt zum Leben. Nach einem ausgiebigen Spaziergang haben wir das Stadtzentrum erreicht. Dort gibt es viele kleine Stände am Straßenrand mit Snacks und kleinen Souvenirs. Wir haben uns für selbstgemachtes Popkorn und einen Magneten entschieden. Auf dem Weg zurück zu unserem Campingplatz haben wir dann den Weg über die Burg genommen. Spoiler: es ist wahnsinnig steil! 
 
-
+Nach Berat ging es für uns in die bekannte Hafenstadt Vlorë. Dort erhoffen wir uns einen Stellplatz direkt am Meer, aber zuerst gibt es in den Lokalen im Zentrum erst einmal eine Stärkung. Nachdem wir uns auch das Stadtzentrum angesehen haben, machen wir uns mit vollem Kühlschrank in richtung Nationalpark. Dort haben wir über Park4Night wieder ein paar Stellplätze gespottet, die wir uns nicht entgehen lassen wollen. Und was sollen wir sagen, wir haben einen einsamen Strand entdeckt (anscheinend ist Mitte September die Badesaison in Albanien bereits zu ende), an dem wir uns es für die nächsten drei Tage gemütlich machen. Bevor es uns wieder in die nächstgrößere Stadt Gjirokater ziet. 
 
 ![Albanien](/assets/images/Albanien02.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien03.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien04.jpg){: width="30%"}
+
+
+Die Tage am Meer waren wahrer Balsam für unsere Seelen. Drei volle Tage konnten wir ungestört am Strand liegen, uns sonnen und im kristallklaren Wasser baden. Doch irgendwann packte uns erneut die Abenteuerlust, und so machten wir uns auf den Weg nach Gjirokaster – einer Stadt, die als eines der wichtigsten Kulturerben Albaniens gilt und uns mit ihrer beeindruckenden Lage am Berg sofort in ihren Bann zog. Kaum angekommen, begann es leider zu regnen. Als wir dann zum ersten Mal seit Wochen das Wetter checkten, stellten wir fest, dass es ab der kommenden Woche deutlich kälter und unbeständiger werden soll. Der Herbst kündigt sich an, und wir müssen uns auf kühleres Wetter in Albanien einstellen. Oh nein! Daher heißt es für uns, erstmal keine Übernachtung in Gjirokaster - aber definitv einen Besuch wert - und weiter zu unserem nächsten Stopp. 
+
 
 ![Albanien](/assets/images/Albanien05.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien06.jpg){: width="30%"}
