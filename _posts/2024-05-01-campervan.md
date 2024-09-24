@@ -26,19 +26,19 @@ Voller Tatendrang stürzen wir uns zu Beginn des Jahres in unseren Traum vom eig
 
 Der erste Schritt bestand darin, ein geeignetes Fahrzeug zu finden, das sich für den Umbau zum Campervan eignet. Es sollte möglichst alles bieten, was wir brauchen, und zudem preislich im Rahmen bleiben. Glücklicherweise hatten wir in unserer Verwandtschaft Zugang zu einem VW Bus, den wir erwerben konnten. Es handelt sich um einen VW T5 Multivan aus dem Jahr 2011 – ein komfortables Auto, das bereits einige Funktionen bietet.
 
-![VWT5](/assets/images/Ausbau01.jpg)
-
-
 Doch wir wollten mehr: Unser Plan umfasst ein richtiges Bett statt der umgeklappten Sitze, ein Waschbecken mit einem funktionierenden Wasserhahn und Dusche, anstelle eines einfachen Frischwasserkanisters, und schließlich eine funktionierende Küche inklusive Kühlschrank. Das, liebe Freunde, ist unsere Vision!
 
 Als allererstes haben wir einen Autoradio verbaut, dazu mehr, sowie Tipps und Tricks, findest du in unserem <a href="{% post_url 2023-03-31-campervan-part1-radio %}">Part 1 - Radio Upgrade - Campervan Umbau</a>. 
+
+
+![VWT5](/assets/images/Ausbau01.jpg)
 
 
 Als nächstes haben wir die Innenverkleidung des VW Busses entfernt, um die Isolierung anzubringen. Ihr könnt euch sicher vorstellen, welch umfangreiche und anspruchsvolle Arbeit das war. Fingerspitzengefühl und Ausdauer waren gefragt, und wir mussten mehrere Stunden investieren – das hatten wir zunächst nicht eingeplant. Für die Isolierung haben wir uns für ARMAFLEX entschieden – ein selbstklebendes Material (*keine Werbung), das sowohl kostengünstig ist als auch seinen Zweck hervorragend erfüllt. Spoiler: Es haftet wirklich extrem gut! Nachdem wir alles abmontiert und vorbereitet hatten, konnten wir die Isolierung anbringen.
 
 Ich hatte bereits erwähnt, dass eine gründliche Planung das A und O des gesamten Prozesses ist. Dennoch mussten wir während des Ausbaus immer wieder feststellen, dass unvorhergesehene Herausforderungen auftraten, die wir im Voraus nicht bedacht hatten. Dies führte dazu, dass wir häufig unseren ursprünglichen Plan überarbeiten und anpassen mussten. Was wir nun auch im nächsten Schritt festgestellt haben. Da wir relativ zeitnah mit dem Van losfahren wollen, ist das Bett aus unserer Sicht daher das Wichtigste um zu starten. Also beginnen wir mit dem Bau des Bettes. Dabei müssen wir jedoch beachten, dass die Planung des Bettes – unserer Meinung nach das Herzstück des Campervans – auch die Maße für alle anderen Elemente beeinflusst.
 
-Da man wie bei dem Bau des Bettes zum einen beachten musste in welchem Zsuammenhang das mit den jeweils anderen Funktionen des Campers stehen soll, z.B. den Maßen für die Küche oder der Verstauflächen uns auch den Auszügen. Es gilt also, den Innenraum präzise auszumessen und die entsprechenden Maße zu überlegen. Wenn man ein möglichst großes Bett einplant, könnte am Ende der Platz für Stauraum fehlen. Außerdem darf das Bett nicht zu hoch sein, da man sonst nicht mehr aufrecht sitzen kann, aber auch nicht zu niedrig, um wertvollen Stauraum darunter nicht zu verlieren. Diese Fragen sind entscheidend und sollten vor dem Ausbau und der Umsetzung geklärt werden. Da wir jedoch noch nie ein solches Projekt in die Realität umgesetzt hatten, waren wir uns unsicher, woher wir dieses Wissen nehmen sollten. Dennoch war uns klar, dass wir, da wir beide relativ groß sind, uns im Bett gerne ausstrecken möchten. Bei der Breite des Bettes waren wir bereit, etwas zu sparen, da wir keine Probleme mit engen Platzverhältnissen haben. 
+Da man wie bei dem Bau des Bettes zum einen beachten musste in welchem Zsuammenhang das mit den jeweils anderen Funktionen des Campers stehen soll, z.B. den Maßen für die Küche oder der Verstauflächen uns auch den Auszügen. Es gilt also, den Innenraum präzise auszumessen und die entsprechenden Maße zu überlegen. Wenn man ein möglichst großes Bett einplant, könnte am Ende der Platz für Stauraum fehlen. Außerdem darf das Bett nicht zu hoch sein, da man sonst nicht mehr aufrecht sitzen kann, aber auch nicht zu niedrig, um wertvollen Stauraum darunter nicht zu verlieren. Diese Fragen sind entscheidend und sollten vor dem Ausbau und der Umsetzung geklärt werden. Da wir jedoch noch nie ein solches Projekt in die Realität umgesetzt hatten, waren wir uns unsicher, woher wir dieses Wissen nehmen sollten. Dennoch war uns klar, dass wir, da wir beide relativ groß sind, uns im Bett gerne ausstrecken möchten. Bei der Breite des Bettes waren wir bereit, etwas zu sparen, da wir keine Probleme mit engen Platzverhältnissen haben. Doch die detailierte Plaung und den dazugehörigen Ausbau des Bettes findest du HIER. 
 
 
 ![VW](/assets/images/Ausbau02.jpg){: width="30%"}
@@ -46,18 +46,22 @@ Da man wie bei dem Bau des Bettes zum einen beachten musste in welchem Zsuammenh
 ![VW](/assets/images/Ausbau04.jpg){: width="30%"}
 
 
+
+
+
+
 **Herausforderungen:** 
-* Messung und Genauigkeit: Als eine der größten Herausforderungen würden wir tatsächlich sagen, war es den gesamten Ausbau zu planen. 
+* Messung und Genauigkeit: Als eine der größten Herausforderungen würden wir tatsächlich sagen, war es den gesamten Ausbau zu planen und die richtigen Maße zu nehmen, um alles so genau wie emöglich zu konstruieren. Und da es sich um ein Auto handelt, sind die Wände nicht gerade sondern eher krum und schief. 
 
-* Elektrik: Da wir beide keine ausgebildeten Elektriker sind, rückte das Thema Elektrik zunächst in den Hintergrund. Dennoch hatten wir es stets im Hinterkopf. Zu Beginn erstellten wir einen groben Plan, wie der Stromkreis im Van verlaufen sollte, um Kurzschlüsse zu vermeiden und alles sicher zu installieren. Dabei wurde uns schnell klar, wie zeitintensiv bereits die Planung der Elektrik ist – viel mehr, als wir ursprünglich angenommen hatten. Glücklicherweise konnten wir auf die großartige Unterstützung von Verwandten und Freunden zählen, die uns tatkräftig bei der Umsetzung geholfen haben. Ohne ihre Hilfe wäre unser Campervan heute vermutlich noch ohne Elektrik unterwegs. 😄
+* Elektrik: Da wir beide keine ausgebildeten Elektriker sind, rückte das Thema Elektrik zunächst in den Hintergrund. Dennoch hatten wir es stets im Hinterkopf. Zu Beginn erstellten wir einen groben Plan, wie der Stromkreis im Van verlaufen sollte, um Kurzschlüsse zu vermeiden und alles sicher zu installieren. Dabei wurde uns schnell klar, wie zeitintensiv bereits die Planung der Elektrik ist – viel mehr, als wir ursprünglich angenommen hatten. 
 
-![VWT5](/assets/images/Ausbau05.jpg)
 
-* Zeit: 
-* 
+* Zeit: Die Recherche zu den verschiedenen Themenbereichen ist nicht nur zeitaufwendig, sondern wird auch oft unterschätzt. Hinzu kommt die Materialbeschaffung, die ebenfalls viel Zeit in Anspruch nimmt. Mit jedem Schritt scheint sich ein neues Hindernis aufzutun, sodass wir mehr Zeit in Baumärkten und Online-Shops verbracht haben, als uns lieb war.
+
+ 
 
 **Tipps & Tricks:** 
-* Viel Zeit einplanen und gründliche Vorarbeit leisten 
+* Für die Recherche und Materialbeschaffung viel Zeit einplanen
 * Auch mal Pausen zulassen 
 * Internet als Recherchequelle nutzen - man muss das Rad nicht neu erfinden 
 * Unterstützung annehmen 
@@ -67,9 +71,6 @@ Da man wie bei dem Bau des Bettes zum einen beachten musste in welchem Zsuammenh
 * 
 
 **Unser ausgebauter Campervan - Wollma:** 
-
-![VWT5](/assets/images/Ausbau01.jpg)
-
 
 
 **Fazit:** 
