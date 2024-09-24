@@ -48,13 +48,23 @@ Hier muss man vor allem beachten, in welchem Zsuammenhang das  geplante Teil mit
 
 
 **Herausforderungen:** 
-* **Messung und Genauigkeit**: Als eine der größten Herausforderungen würden wir tatsächlich sagen, war es den gesamten Ausbau zu planen und die richtigen Maße zu nehmen, um alles so genau wie emöglich zu konstruieren. Und da es sich um ein Auto handelt, sind die Wände nicht gerade sondern eher krum und schief. 
+* **Messung und Genauigkeit**: Als eine der größten Herausforderungen würden wir tatsächlich sagen, war es den gesamten Ausbau zu planen und die richtigen Maße zu nehmen, um alles so genau wie emöglich zu konstruieren. Und da es sich um ein Auto handelt, sind die Wände nicht gerade sondern eher krum und schief. Durch ungenaue Messungen, haben sich im Nachhinein bei anderen Zuschnitten ein paar kleiner Problematiken entwickelt. 
 
 * **Elektrik**: Da wir beide keine ausgebildeten Elektriker sind, rückte das Thema Elektrik zunächst in den Hintergrund. Dennoch hatten wir es stets im Hinterkopf. Zu Beginn erstellten wir einen groben Plan, wie der Stromkreis im Van verlaufen sollte, um Kurzschlüsse zu vermeiden und alles sicher zu installieren. Dabei wurde uns schnell klar, wie zeitintensiv bereits die Planung der Elektrik ist – viel mehr, als wir ursprünglich angenommen hatten. 
 
 
 * **Zeit**: Die Recherche zu den verschiedenen Themenbereichen ist nicht nur zeitaufwendig, sondern wird auch oft unterschätzt. Hinzu kommt die Materialbeschaffung, die ebenfalls viel Zeit in Anspruch nimmt. Mit jedem Schritt scheint sich ein neues Hindernis aufzutun, sodass wir mehr Zeit in Baumärkten und Online-Shops verbracht haben, als uns lieb war.
  
+
+### Unser Fazit und das Ergebnis: 
+Was sollen wir sagen – wir sind absolut begeistert vom Ergebnis! Unser Van hat bereits einige Urlaube im ausgebauten Zustand erlebt, und bisher gab es nichts, das nicht funktioniert hätte. Da es sich um einen Multivan handelt, ist der Tisch in der Schiebetür verstaut, sodass kein zusätzlicher Stauraum nötig ist. Obwohl wir den kompletten Ausbau, von der Planung bis zur Fertigstellung, nicht ganz in sieben Tagen geschafft haben, ist das Ergebnis genau so geworden, wie wir es uns vorgestellt haben. Ohne die zusätzliche Zeit hätten wir das Projekt in dieser Form vermutlich nicht so erfolgreich umsetzen können.
+
+Unser Fazit lautet: Auch wenn wir den Umbau nicht in den angestrebten sieben Tagen geschafft haben, lag das vor allem an unserem vollen Terminkalender. Neben unserer Vollzeitarbeit haben wir uns auch Zeit für Familie und Freunde genommen. Trotzdem haben wir in nur einem Monat enorm viel erreicht und können stolz auf das Ergebnis sein.
+
+
+### Reality Check:** 
+Ein persönliches Learning ist, dass Social Media oft ein verzerrtes Bild der Realität zeigt. So einfach und reibungslos, wie es dort manchmal aussieht, ist es in der Praxis oft nicht – besonders, wenn man andere Voraussetzungen hat. Deshalb unser Tipp: Nehmt euch die Zeit, die ihr braucht, und geht es in eurem eigenen Tempo an. Setzt euch ambitionierte, aber realistische Ziele und habt nicht zu hohe Erwartungen an euch selbst. Am Ende wird das Ergebnis sogar besser sein, als ihr es euch vorgestellt habt.
+
 
 **Tipps & Tricks:** 
 * **Genügend Zeit einplanen**: Sowohl für die Recherche als auch für die Materialbeschaffung sollte ausreichend Zeit einkalkuliert werden.
@@ -64,17 +74,6 @@ Hier muss man vor allem beachten, in welchem Zsuammenhang das  geplante Teil mit
 * **Mut zum Ausprobieren**: Manchmal hilft es, einfach loszulegen und Dinge auszuprobieren – Ganz nach dem Mott: Learning by Doing!
 * **Einrichtung anpassen**: Bei der Einrichtung vor allem sperigen Gegenständen vorsichtig sein, ob sich das alles gut verstauen lässt, wie beispielsweise Stühle und Kochutensilien, sodass während des Fahrens nichts verrutscht. 
 
-**Das Ergebnis:** 
-* Was sollen wir sagen – wir sind absolut begeistert vom Ergebnis! Unser Van hat bereits einige Urlaube im ausgebauten Zustand erlebt, und bisher gab es nichts, das nicht funktioniert hätte. Da es sich um einen Multivan handelt, ist der Tisch in der Schiebetür verstaut, sodass kein zusätzlicher Stauraum nötig ist. Obwohl wir den kompletten Ausbau, von der Planung bis zur Fertigstellung, nicht ganz in sieben Tagen geschafft haben, ist das Ergebnis genau so geworden, wie wir es uns vorgestellt haben. Ohne die zusätzliche Zeit hätten wir das Projekt in dieser Form vermutlich nicht so erfolgreich umsetzen können.
-
-**Unser ausgebauter Campervan - Wollma:** 
-
-
-**Fazit:** 
-* 
-
-**Reality Check:** 
-* 
 
 #### Zusätzliche Aspekte, die für einen eigenen Ausbau interessant sein können 
 
