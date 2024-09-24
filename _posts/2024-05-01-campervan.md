@@ -24,7 +24,7 @@ Hand aufs Herz: Wer von uns ist schon gelernter Handwerker oder Elektriker? Gena
 #### Und los gehts: Wir bauen einen Campervan aus
 Voller Tatendrang stürzen wir uns zu Beginn des Jahres in unseren Traum vom eigenen Campervan. Inspiriert von den zahlreichen Social-Media-Beiträgen, in denen gefühlt jeder seinen Van selbst ausbaut und damit die Welt bereist, haben auch wir uns entschieden, diesen Traum in die Realität umzusetzen.
 
-Der erste Schritt bestand darin, ein geeignetes Fahrzeug zu finden, das sich für den Umbau zum Campervan eignet. Es sollte möglichst alles bieten, was wir brauchen, und zudem preislich im Rahmen bleiben. Glücklicherweise hatten wir in unserer Verwandtschaft Zugang zu einem VW Bus, den wir erwerben konnten. Es handelt sich um einen VW T5 Multivan aus dem Jahr 2011 – ein komfortables Auto, das bereits einige Funktionen bietet.
+Der erste Schritt bestand darin, ein geeignetes Fahrzeug zu finden, das sich für den Umbau zum Campervan eignet. Es sollte möglichst alles bieten, was wir brauchen, und zudem preislich im Rahmen bleiben. Glücklicherweise hatten wir in unserer Verwandtschaft Zugang zu einem VW Bus, den wir erwerben konnten. Es handelt sich um einen VW T5 Multivan aus dem Jahr 2011 mit kurzem Radstand – ein komfortables Auto, das bereits einige Funktionen bietet.
 
 Doch wir wollten mehr: Unser Plan umfasst ein richtiges Bett statt der umgeklappten Sitze, ein Waschbecken mit einem funktionierenden Wasserhahn und Dusche, anstelle eines einfachen Frischwasserkanisters, und schließlich eine funktionierende Küche inklusive Kühlschrank. Das, liebe Freunde, ist unsere Vision!
 
@@ -47,9 +47,6 @@ Da man wie bei dem Bau des Bettes zum einen beachten musste in welchem Zsuammenh
 
 
 
-
-
-
 **Herausforderungen:** 
 * Messung und Genauigkeit: Als eine der größten Herausforderungen würden wir tatsächlich sagen, war es den gesamten Ausbau zu planen und die richtigen Maße zu nehmen, um alles so genau wie emöglich zu konstruieren. Und da es sich um ein Auto handelt, sind die Wände nicht gerade sondern eher krum und schief. 
 
@@ -61,11 +58,11 @@ Da man wie bei dem Bau des Bettes zum einen beachten musste in welchem Zsuammenh
  
 
 **Tipps & Tricks:** 
-* Für die Recherche und Materialbeschaffung viel Zeit einplanen
-* Auch mal Pausen zulassen 
-* Internet als Recherchequelle nutzen - man muss das Rad nicht neu erfinden 
-* Unterstützung annehmen 
-* Einfach mal ausprobieren 
+* Genügend Zeit einplanen: Sowohl für die Recherche als auch für die Materialbeschaffung sollte ausreichend Zeit einkalkuliert werden.
+* Pausen einlegen: Gönne dir regelmäßig Pausen, um neue Energie zu tanken und den Kopf frei zu bekommen.
+* Internet sinnvoll nutzen: Nutze Online-Ressourcen für Inspiration und Lösungsansätze – man muss das Rad nicht neu erfinden.
+* Hilfe annehmen: Scheue dich nicht, Unterstützung von Freunden oder Experten in Anspruch zu nehmen.
+* Mut zum Ausprobieren: Manchmal hilft es, einfach loszulegen und Dinge auszuprobieren – Ganz nach dem Mott: Learning by Doing!
 
 **Das Ergebnis:** 
 * 
