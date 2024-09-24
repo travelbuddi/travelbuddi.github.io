@@ -39,7 +39,7 @@ Unsere Weitereise bringt und nach Mostar. Mostar ist für seine unglaublichen Br
 Nach diesen kulinarischen Erlebnissen geht es mit unserem Camper weiter Richtung Süden. Unterwegs kommen wir an einem alten Kloster vorbei, das spektakulär in den Felsen direkt am Fluss gebaut wurde. Schließlich erreichen wir unser nächstes Ziel: die beeindruckenden Kravica-Wasserfälle – ein perfekter Ort, um die Natur zu genießen und den Tag ausklingen zu lassen.
 
 
-#### *Seehenswürdigkeiten:*
+#### *Sehenswürdigkeiten:*
 * Buško jezero
 * Two River Crossing
 * <a href="https://franks-travelbox.com/europa/bosnien-herzegowina/alte-bruecke-stari-most-in-mostar-bosnien-herzegowina/">Stari Most in Mostar</a>
@@ -56,7 +56,7 @@ Nach diesen kulinarischen Erlebnissen geht es mit unserem Camper weiter Richtung
 
 Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischenstopp auf unserer Durchreise nach Nordmazedonien geplant, hat uns das Land so begeistert, dass wir spontan beschlossen, eine Nacht in der Nähe von Podgorica zu verbringen. Auf einem kleinen Weingut fanden wir einen charmanten Schlafplatz. Dort wird privat eine Weinverkostung mit Essen angeboten, und als besonderes Highlight durften wir im Garten der Gastgeber übernachten – ein unvergleichliches Erlebnis mitten in den Weinbergen mit sehr guten selbstgemachten Weinen - nur zu empfehlen! 
 
-#### *Seehenswürdigkeiten:*
+#### *Sehenswürdigkeiten:*
 * Podgorica
 * <a href="https://www.lonelyplanet.com/montenegro/podgorica/attractions/niagara-falls/a/poi-sig/1543410/360160">Nijagara Waterfall </a>
 * Weinverkostung
@@ -83,7 +83,7 @@ Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über
 ![Ohrid](/assets/images/Ohrid04.jpg){: width="30%"}
 
 
-#### *Seehenswürdigkeiten:*
+#### *Sehenswürdigkeiten:*
 * Ohrid See
 * Nationalpark Galičica
 * <a href="https://mazedonien.de/kulturstaette/bay-of-bones-museum-auf-dem-wasser-2/">Bay of Bones </a>
@@ -109,14 +109,17 @@ Nach Berat ging es für uns in die bekannte Hafenstadt Vlorë. Dort erhoffen wir
 ![Albanien](/assets/images/Albanien04.jpg){: width="30%"}
 
 
-Die Tage am Meer waren wahrer Balsam für unsere Seelen. Drei volle Tage konnten wir ungestört am Strand liegen, uns sonnen und im kristallklaren Wasser baden. Doch irgendwann packte uns erneut die Abenteuerlust, und so machten wir uns auf den Weg nach Gjirokaster – einer Stadt, die als eines der wichtigsten Kulturerben Albaniens gilt und uns mit ihrer beeindruckenden Lage am Berg sofort in ihren Bann zog. Kaum angekommen, begann es leider zu regnen. Als wir dann zum ersten Mal seit Wochen das Wetter checkten, stellten wir fest, dass es ab der kommenden Woche deutlich kälter und unbeständiger werden soll. Der Herbst kündigt sich an, und wir müssen uns auf kühleres Wetter in Albanien einstellen. Oh nein! Daher heißt es für uns, erstmal keine Übernachtung in Gjirokaster - aber definitv einen Besuch wert - und weiter zu unserem nächsten Stopp. 
+Die Tage am Meer waren wahrer Balsam für unsere Seelen. Drei volle Tage konnten wir ungestört am Strand liegen, uns sonnen und im kristallklaren Wasser baden. Doch irgendwann packte uns erneut die Abenteuerlust, und so machten wir uns auf den Weg nach Gjirokastra – einer Stadt, die als eines der wichtigsten Kulturerben Albaniens gilt und uns mit ihrer beeindruckenden Lage am Berg sofort in ihren Bann zog. Kaum angekommen, begann es leider zu regnen. Als wir dann zum ersten Mal seit Wochen das Wetter checkten, stellten wir fest, dass es ab der kommenden Woche deutlich kälter und unbeständiger werden soll. Der Herbst kündigt sich an, und wir müssen uns auf kühleres Wetter in Albanien einstellen. Oh nein! Daher heißt es für uns, erstmal keine Übernachtung in Gjirokastra - aber definitv einen Besuch wert - und weiter zu unserem nächsten Stopp. 
 
-#### *Seehenswürdigkeiten:*
+#### *Sehenswürdigkeiten:*
 * Berat - die Stadt der 1000 Fenster
 * Vlorë
-* <a href="https://franks-travelbox.com/europa/bosnien-herzegowina/alte-bruecke-stari-most-in-mostar-bosnien-herzegowina/">Stari Most in Mostar</a>
-* <a href="https://tekijablagaj.ba/en/">Blagaj Tekke</a>
-* <a href="https://kravica.ba/de/kravica-wasserfall/">Kravica Wasserfälle</a>
+* Gjirokastra
+* Shkodra - Stadt und See
+* Teth - Albanische Alpen 
+* Ksamil Beach 
+* Permet - Thermal Baths 
+
 
 ![Albanien](/assets/images/Albanien05.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien06.jpg){: width="30%"}
