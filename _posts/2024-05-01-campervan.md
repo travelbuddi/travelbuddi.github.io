@@ -9,7 +9,7 @@ tags: [sticky]
 
 ## Vanlife in 7 Tagen: Unser Traum vom DIY Campervan 
 
-Eine Woche, ein Bus, unendlich viele Möglichkeiten - oder? Im Mai 2024 haben wir versucht, einen kompletten Camperausbau in nur sieben Tagen. Ob uns das gelungen ist und was wir dabei gelernt haben, erfährst du hier!
+Eine Woche, ein Bus, unendlich viele Möglichkeiten - oder? Im Mai 2024 haben wir versucht, einen kompletten Camperausbau in nur sieben Tagen. Ob uns das gelungen ist erfährst du hier!
 
 Du träumst von deinem eigenen Camper, hast aber keine Ahnung vom Ausbau? Keine Sorge, du bist nicht allein! Auch wir haben als Anfänger klein angefangen. Mit ein bisschen Planung, Kreativität und der richtigen Unterstützung kannst du deinen Traum vom selbst ausgebauten Camper verwirklichen.
 
@@ -21,7 +21,7 @@ In diesem Beitrag zeigen wir dir, wie du dich optimal auf dein Projekt vorbereit
 Hand aufs Herz: Wer von uns ist schon gelernter Handwerker oder Elektriker? Genau, die wenigsten! Als wir uns entschlossen, unseren VW T5 in einen gemütlichen Camper zu verwandeln, standen wir vor der gleichen Herausforderung. Ohne Vorkenntnisse in diesen Bereichen, war die Vorbereitung das A und O. Um unser Projekt zum Erfolg zu führen, haben wir vorab einfach sehr viel recherchiert. Und was soll ich sagen, wem macht das schon besonders viel Spaß. Dabei haben wir uns nicht nur auf das Internet verlassen, sondern auch unser Umfeld nach Rat gefragt. Das Internet war hierbei nichtsdestotrotz unser größter Fraund und Helfer: von Pinterest für inspirierende Innenausbauten über YouTube-Tutorials bis hin zu Instagram-Hacks – die digitale Welt bietet eine schier unendliche Quelle an Informationen und Tipps. Und zu guter Letzt, wollen wir dir hier auch eine Unterstützung sein, um dein womöglich nächstes Projekt umzusetzen. 
 
 
-#### Und los gehts: Wir bauen einen Campervan aus
+### Und los gehts: Wir bauen einen Campervan aus
 Voller Tatendrang stürzen wir uns zu Beginn des Jahres in unseren Traum vom eigenen Campervan. Inspiriert von den zahlreichen Social-Media-Beiträgen, in denen gefühlt jeder seinen Van selbst ausbaut und damit die Welt bereist, haben auch wir uns entschieden, diesen Traum in die Realität umzusetzen.
 
 Der erste Schritt bestand darin, ein geeignetes Fahrzeug zu finden, das sich für den Umbau zum Campervan eignet. Es sollte möglichst alles bieten, was wir brauchen, und zudem preislich im Rahmen bleiben. Glücklicherweise hatten wir in unserer Verwandtschaft Zugang zu einem VW Bus, den wir erwerben konnten. Es handelt sich um einen VW T5 Multivan aus dem Jahr 2011 mit kurzem Radstand – ein komfortables Auto, das bereits einige Funktionen bietet.
