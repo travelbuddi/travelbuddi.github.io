@@ -81,9 +81,10 @@ Ein persönliches Learning ist, dass Social Media oft ein verzerrtes Bild der Re
 * **Einrichtung anpassen**: Bei der Einrichtung vor allem sperigen Gegenständen vorsichtig sein, ob sich das alles gut verstauen lässt, wie beispielsweise Stühle und Kochutensilien, sodass während des Fahrens nichts verrutscht. 
 
 
-#### Zusätzliche Aspekte, die für einen eigenen Ausbau interessant sein können 
+#### Zusätzliche Aspekte, die für einen Ausbau interessant sein können:
 
-* **Kosten:** Wie viel haben wir nun insgesamt bezahlt? Hier könnt ihr eine Liste mit unseren Gesamtausgaben finden. 
+* **Kosten:** Wie viel haben wir nun insgesamt bezahlt? 
+Hier könnt ihr eine Liste mit unseren Gesamtausgaben finden. 
 * **Ausstattung:** Welche Ausstattung habrn wir verwendet und eingebaut (Bett, Küche, Dusche, etc.)?
 * **Inspiration:** Wo haben wir unsere Ideen her? 
 
