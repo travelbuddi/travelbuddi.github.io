@@ -127,6 +127,9 @@ In Ksamil spüren wir den zunehmenden Tourismus, der im Landesinneren bislang no
 
 Anschließend entscheiden wir uns noch für einen Aufenthalt in den Albanischen Alpanen. Daher heißt es: den ganzen Weg vom Süden wieder hinauf in den Norden. Durch die Streckenbeschaffenheit und auch die Serpentinenreiche Umgebung, dauert das eine ganze Weile. Demnach machen wir einen kleinen Zwischenstopp in Shkpodra am See, bevor wir die 2 stündige Fahrt nach Teth auf uns nehmen. Sidefact, wir haben mittlerweile 3.000 km Strecke zurückgelegt. 
 
+![Albanien](/assets/images/Albanien08.jpg)
+
+
 #### *Sehenswürdigkeiten:*
 * Berat - die Stadt der 1000 Fenster
 * Vlorë - die Hafenstadt 
@@ -136,7 +139,6 @@ Anschließend entscheiden wir uns noch für einen Aufenthalt in den Albanischen 
 * Ksamil Beach 
 * Permet - Thermal Baths 
 
-![Albanien](/assets/images/Albanien08.jpg)
 
 
 ## Serbien 
@@ -150,6 +152,15 @@ Das Wetter hat uns bereits in Montenegro einen Strich durch die Rechnung gemacht
 ![Serbien](/assets/images/Serbien3.jpg){: width="30%"}
 ![Serbien](/assets/images/Serbien4.jpg){: width="30%"}
 
+In Belgrad haben wir uns die Festung angesehen und das Stadtzentrum. Den Großteils des Tages haben wir in einer Mall, zum Aufwärmen mit einem Kaffee verbracht oder in einer wunderschönen Bibliothek in der Innenstadt. Gleichzeitig können wir die Festung in Belgrad empfehlen, da man einen wunderbaren Ausblick übder die Stadt hat und einige Einblicke in die damalige Zeit erhält. 
+
+
+
+#### *Sehenswürdigkeiten:*
+* Festung von Belgrad
+* Stadtzentrum  
+* Kirche St. Stava 
+* Mihailova Street 
 
 
 ## Ungarn  
