@@ -165,3 +165,9 @@ In Belgrad haben wir uns die Festung angesehen und das Stadtzentrum. Den Großte
 
 ## Ungarn  
 ![Budapest](/assets/images/Budapest01.jpg)
+
+Zu guter Letzt haben wir Ungarn durchquert und die Städte Kecskemét und Budapest besucht. In Kecskemét haben wir ein Spa mit Sauna entdeckt, das genau das Richtige war, um uns wieder aufzuwärmen. Die Eintrittspreise von nur 14 Euro für den ganzen Tag waren einfach unschlagbar, sodass wir nicht lange überlegen mussten. Für zwei Nächte haben wir unseren Stellplatz direkt am Badeigenen Parkplatz bezogen, was uns den perfekten Zugang zu den entspannenden Einrichtungen und den Annehmlichkeiten des Spas bietet, bevor es in die Großstadt Budapest ging. Da wir beide bereits vermehrt in der Hauptstadt waren, konnten wir uns zeitlassen und sind ganz gemütlich durch die Stadt geschlendert. In Budapest hat sich endlich die Sonne auch wieder blicken lassen und es war einfach ein guter Abschluss unserer Balkan und Osteuropa Tour. 
+
+![Ungarn](/assets/images/Ungarn2.jpg){: width="30%"}
+![Ungarn](/assets/images/Ungarn3.jpg){: width="30%"}
+![Ungarn](/assets/images/Ungarn4.jpg){: width="30%"}
