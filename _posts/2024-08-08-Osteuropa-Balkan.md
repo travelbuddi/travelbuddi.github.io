@@ -132,6 +132,8 @@ Entlang der SH4 schlängelten wir uns am Fluss Vjosa entlang durch das Gebirge u
 * Ksamil Beach 
 * Permet - Thermal Baths 
 
+![Albanien](/assets/images/Albanien08.jpg)
+
 
 ## Serbien 
 ![Serbien](/assets/images/Serbien01.jpg)
