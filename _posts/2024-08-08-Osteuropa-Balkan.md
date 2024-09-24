@@ -29,12 +29,14 @@ Am nächsten Morgen ging es dann immer weiter der Sonne hinterher, bis wir in Sp
 
 ![Busko Jesero](/assets/images/Bosnien01.jpg)
 
-Unser nächster Halt war in Bosninen & Herzegowina am wunderschönen Buško jezero (siehe Bild), der größte See des Landes. Diesen Spot haben über Park4Night entdeckt, und konnte ganz abseits der touristischen Städte die Ruhe des Sees genießen. Etwas hinter der Ländergrenze nehmen wir eine sehr unscheinbare Straße, welche uns zu unserem Schlafplatz der letzten zwei Nächte führt. Dort könnn wir nicht nur ungestört (mit Ausnahmen einiger freundlicher Fischer) die Seele baumeln lassen, Bücher lesen, Joggen gehen und im See baden, sondern auch kochen, kniffeln und schlafen. Die gesamten 3 Tage haben wir nur vereinzelt ein paar Leute getroffen, und meist waren es lokale Fischer, die dort bis in die Nacht hinein fischten. Trotz Sprachunterschiede haben wir uns mit Händen und Füßen ein wenig unterhalten können, und herausgefunden welchen Fisch sie in den Gewässern fangen. 
+
+Unser nächster Halt führte uns nach Bosnien & Herzegowina an den wunderschönen Buško jezero (siehe Bild), den größten See des Landes. Diesen traumhaften Spot haben wir über Park4Night entdeckt und konnten hier, fernab der touristischen Städte, die Ruhe in vollen Zügen genießen. Hinter der Landesgrenze führte uns eine unscheinbare Straße zu unserem Schlafplatz für die letzten zwei Nächte. Dort konnten wir ungestört, abgesehen von einigen freundlichen Fischern, die Seele baumeln lassen. Wir verbrachten die Tage mit Joggen, Schwimmen im See, Lesen, Kochen, Kniffeln und einfach nur Entspannen. In den drei Tagen begegneten wir nur vereinzelt anderen Menschen – meist lokale Fischer, die bis spät in die Nacht ihre Angeln auswarfen. Trotz Sprachbarrieren konnten wir uns mit Händen und Füßen unterhalten und herausfinden, welche Fische sie hier fangen. Es war eine wunderbare Zeit voller Natur, Gelassenheit und einfachen Begegnungen, die diesen Ort für uns unvergesslich gemacht haben.
 
 
-Unsere Weitereise bringt und nach Mostar. Mostar ist für seine unglaublichen Brücken bekannt. Heute haben wir leider keine Personen von dort oben springen sehen, wenn wir Glück haben, sehen wir noch welche bei unserer <a href="https://www.guruwalk.com/de/walks/34705-shevas-free-walking-tour-durch-mostar-entdecken-sie-die-vergangenheit-verstehen-sie-unsere-gegenwart">Free Walking Tour</a> durch die Stadt. Wir verbringen zwei ganze Tage in der Stadt und kosten uns durch die Vielfalt der traditionelllen Gerichte. Da wir uns beide vegetarisch ernähnren, kann es gerade im Balkan ab und zu herausfordernd sein etwas passendes und traditionelles zu finden. In Mostar können wir jedoch noch ein Kaffeehaus empfehlen, welches den ältesten Kaffe (und auch wirklich lecker) in Mostar zubereitet. Es ist das kleine Häusschen oberhalbt der Brücke Stari Most. Der Eingang ist etwas versteckt, hinter einem Touristen Laden, wo eine Treppe nach oben in das kleine verwunschene Kaffee führt. 
+Unsere Weitereise bringt und nach Mostar. Mostar ist für seine unglaublichen Brücken bekannt. Heute haben wir leider keine Personen von dort oben springen sehen, wenn wir Glück haben, sehen wir noch welche bei unserer <a href="https://www.guruwalk.com/de/walks/34705-shevas-free-walking-tour-durch-mostar-entdecken-sie-die-vergangenheit-verstehen-sie-unsere-gegenwart">Free Walking Tour</a> durch die Stadt. Wir verbringen zwei volle Tage in Mostar und lassen uns von der Vielfalt der traditionellen Gerichte begeistern. Da wir uns beide vegetarisch ernähren, kann es auf dem Balkan hin und wieder eine Herausforderung sein, etwas Passendes und zugleich Authentisches zu finden. Doch in Mostar wurden wir fündig. Besonders empfehlen können wir ein kleines, charmantes Kaffeehaus, das den ältesten – und wirklich köstlichen – Kaffee der Stadt zubereitet. Es liegt in einem unscheinbaren Häuschen oberhalb der berühmten Brücke Stari Most. Der Eingang ist etwas versteckt: Hinter einem Touristenladen führt eine Treppe nach oben in das kleine, verwunschene Café, das definitiv einen Besuch wert ist.
 
-Anschließend geht es mit unserem Camper weiter Richtung Süden. Auf dem Weg kommen wir noch an einem alten Kloster, welches im Felsen direkt am Fluss errichtet wurde, bis wir an unserem nächsten Spot, den Kravica Wasserfällen ankommen. 
+
+Nach diesen kulinarischen Erlebnissen geht es mit unserem Camper weiter Richtung Süden. Unterwegs kommen wir an einem alten Kloster vorbei, das spektakulär in den Felsen direkt am Fluss gebaut wurde. Schließlich erreichen wir unser nächstes Ziel: die beeindruckenden Kravica-Wasserfälle – ein perfekter Ort, um die Natur zu genießen und den Tag ausklingen zu lassen.
 
 
 #### *Seehenswürdigkeiten:*
@@ -52,7 +54,7 @@ Anschließend geht es mit unserem Camper weiter Richtung Süden. Auf dem Weg kom
 ### Montenegro 
 ![Podgorica](/assets/images/Montenegro01.jpg)
 
-Das nächste Land auf unserer Liste ist: Montenegro. Zunächst ist Montenegro nur ein Zwischenstopp für uns, da wir auf der Durchreise nach Nord Mazedonien sind. Es gefällt uns aber doch so gut, dass wir uns für eine Nacht in der Nähe der Hauptstadt Podgorica einen Schlafplatz auf einem Weinfeld suchen. Das Ganze ist privat veranstaltet und man bekommt eine Weinverkostung inkl. Essen und darf dafür bei den Leuten im Garten übernachten. 
+Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischenstopp auf unserer Durchreise nach Nordmazedonien geplant, hat uns das Land so begeistert, dass wir spontan beschlossen, eine Nacht in der Nähe von Podgorica zu verbringen. Auf einem kleinen Weingut fanden wir einen charmanten Schlafplatz. Dort wird privat eine Weinverkostung mit Essen angeboten, und als besonderes Highlight durften wir im Garten der Gastgeber übernachten – ein unvergleichliches Erlebnis mitten in den Weinbergen mit sehr guten selbstgemachten Weinen - nur zu empfehlen! 
 
 #### *Seehenswürdigkeiten:*
 * Podgorica
@@ -68,6 +70,9 @@ Das nächste Land auf unserer Liste ist: Montenegro. Zunächst ist Montenegro nu
 
 ### Nord Mazedonien 
 ![Ohrid](/assets/images/Ohrid01.jpg)
+
+
+Unser drittes Land auf der Reise: Nordmazedonien. Hier besuchen wir Freunde im Süden des Landes, weshalb wir uns entschieden haben, den Rest des Landes für eine spätere, ausführlichere Reise aufzuheben. Wir machen uns also auf den Weg in das kleine Dorf am Ufer des Ohridsees, dem zweitgrößten See Nordmazedoniens und zugleich einem der ältesten Seen der Welt. Der Ohridsee erstreckt sich über zwei Länder – zur Hälfte liegt er in Nordmazedonien, die andere Hälfte gehört zu Albanien. Die Landschaft rund um den See ist atemberaubend, und wir freuen uns darauf, diese einzigartige Region zu erkunden und mehr von ihrer Geschichte und Schönheit zu erfahren, wenn wir das nächste Mal hierher zurückkehren.
 
 
 ![Ohrid](/assets/images/Ohrid02.jpg){: width="30%"}
