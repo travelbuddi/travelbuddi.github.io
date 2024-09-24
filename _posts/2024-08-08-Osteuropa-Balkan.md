@@ -15,10 +15,10 @@ Da Albanien nun nicht der nahegelegenste Urlaubsort ist und noch dazu mit dem Au
 
 
 ### Kroatien 
-Unser erstes Land, abgesehen von Deutschland und Österreich, war Kroatien. Da ich persönlich noch nie in Kroatien war, haben wir uns entschlossen, auch hier den ein oder anderen Ort abzufahren, um uns dort umzusehen. Als erstes sind wir in einem verschlafenen Örtchen namens Jadronovo gelandet (45.23186302952023, 14.611717329807528). 
+Unser erstes Land, abgesehen von Deutschland und Österreich, war Kroatien. Da ich persönlich noch nie in Kroatien war, haben wir uns entschlossen, auch hier den ein oder anderen Ort abzufahren, um uns dort umzusehen. Als erstes sind wir in einem verschlafenen Örtchen namens Jadronovo gelandet (45.23186302952023, 14.611717329807528). Hier haben wir im Touristenbüro nachgefragt und durften für eine Nacht bei Ihnen am Parkplatz übernachten. Definitiv eine Empfehlung, einen Zwischenstopp in diesem Dörfchen zu machen. Am Strand haben wir Abends gut gegessen und sind in der Früh, bevor es weiter Richtung Süden ging, noch eine Runde im Meer geschwommen. 
 
-Hier haben wir im Touristenbüro nachgefragt und durften für eine Nacht bei Ihnen am Parkplatz übernachten. Definitiv eine Empfehlung, einen Zwischenstopp in diesem Dörfchen zu machen. Am Strand haben wir Abends gut gegessen und sind in der Früh, bevor es weiter Richtung Süden ging, noch eine Runde im Meer geschwommen. 
-Am nächsten Morgen ging es dann immer weiter der Sonne hinterher, bis wir in Split angekommen sind. Ein weiterer Zwischenstopp unserer Route. 
+
+Am nächsten Morgen ging es dann immer weiter der Sonne hinterher, bis wir in Split angekommen sind. Ein weiterer Zwischenstopp unserer Route. Und was sollen wir sagen, Split ist im Vergleich zu Jadronovo sehr touristisch und überlaufen, doch gleichzeitig hat es uns sehr gut gefallen. Die antiken Überreste, die Architektur und auch die Nähe zum Wasser. In Split haben wir uns noch schnell eine Kleinigkeit von einer Bäckerei geholt und uns auf eine Bank gesetzt, um das stetige Treiben zu beobachten. Nach einer Weile haben wir uns auch noch ein Eis geholt (2,80€ die Kugel - und ich dachte in Wien sind die Eispreise schon hoch!) und haben uns gegen Abend auf den Weiterweg Richtung Bosnien & Herzegowina gemacht. 
 
 ![Kroatien1](/assets/images/Kroatien1.jpg){: width="30%"}
 ![Kroatien2](/assets/images/Kroatien2.jpg){: width="30%"}
