@@ -38,7 +38,7 @@ Als nächstes haben wir die Innenverkleidung des VW Busses entfernt, um die Isol
 
 Ich hatte bereits erwähnt, dass eine gründliche Planung das A und O des gesamten Prozesses ist. Dennoch mussten wir während des Ausbaus immer wieder feststellen, dass unvorhergesehene Herausforderungen auftraten, die wir im Voraus nicht bedacht hatten. Dies führte dazu, dass wir häufig unseren ursprünglichen Plan überarbeiten und anpassen mussten. Was wir nun auch im nächsten Schritt festgestellt haben. Da wir relativ zeitnah mit dem Van losfahren wollen, ist das Bett aus unserer Sicht daher das Wichtigste um zu starten. Also beginnen wir mit dem Bau des Bettes. Dabei müssen wir jedoch beachten, dass die Planung des Bettes – unserer Meinung nach das Herzstück des Campervans – auch die Maße für alle anderen Elemente beeinflusst.
 
-Es gilt also, den Innenraum präzise auszumessen und die entsprechenden Maße zu überlegen. Wenn man ein möglichst großes Bett einplant, könnte am Ende der Platz für Stauraum fehlen. Außerdem darf das Bett nicht zu hoch sein, da man sonst nicht mehr aufrecht sitzen kann, aber auch nicht zu niedrig, um wertvollen Stauraum darunter nicht zu verlieren. Diese Fragen sind entscheidend und sollten vor dem Ausbau und der Umsetzung geklärt werden. Da wir jedoch noch nie ein solches Projekt in die Realität umgesetzt hatten, waren wir uns unsicher, woher wir dieses Wissen nehmen sollten. Dennoch war uns klar, dass wir, da wir beide relativ groß sind, uns im Bett gerne ausstrecken möchten. Bei der Breite des Bettes waren wir bereit, etwas zu sparen, da wir keine Probleme mit engen Platzverhältnissen haben.
+Es gilt also, den Innenraum präzise auszumessen und die entsprechenden Maße zu überlegen. Wenn man ein möglichst großes Bett einplant, könnte am Ende der Platz für Stauraum fehlen. Außerdem darf das Bett nicht zu hoch sein, da man sonst nicht mehr aufrecht sitzen kann, aber auch nicht zu niedrig, um wertvollen Stauraum darunter nicht zu verlieren. Diese Fragen sind entscheidend und sollten vor dem Ausbau und der Umsetzung geklärt werden. Da wir jedoch noch nie ein solches Projekt in die Realität umgesetzt hatten, waren wir uns unsicher, woher wir dieses Wissen nehmen sollten. Dennoch war uns klar, dass wir, da wir beide relativ groß sind, uns im Bett gerne ausstrecken möchten. Bei der Breite des Bettes waren wir bereit, etwas zu sparen, da wir keine Probleme mit engen Platzverhältnissen haben. 
 
 
 ![VW](/assets/images/Ausbau02.jpg){: width="30%"}
@@ -46,7 +46,10 @@ Es gilt also, den Innenraum präzise auszumessen und die entsprechenden Maße zu
 ![VW](/assets/images/Ausbau04.jpg){: width="30%"}
 
 
-* **Herausforderungen:** Die Kombination aus fehlenden Kenntnissen, schlechtem Wetter und dem ständigen Hin und Her zum Baumarkt hat uns nicht nur einmal an unsere Grenzen gebracht. Es gab Momente der Frustration, in denen wir uns gefragt haben, ob wir dieses Projekt überhaupt schaffen würden. Doch mit jeder überwundenen Hürde wuchs auch unsere Motivation und unser Stolz.
+**Herausforderungen:** 
+* Planung der Maße: Als eine der größten Herausforderungen würden wir tatsächlich sagen, war es den gesamten Ausbau zu planen. Da man wie bei dem Bau des Bettes zum einen beachten musste in welchem Zsuammenhang das mit den jeweils anderen Funktionen des Campers stehen soll, z.B. den Maßen für die Küche oder der Verstauflächen uns auch den Auszügen. 
+* Elektrik: 
+* Zeit: 
 
 * **Unsere Erfolge:** Es war ein ständiges Auf und Ab. Kaum hatten wir eine Aufgabe gelöst, tauchte schon die nächste auf. Die Kombination aus fehlenden Vorkenntnissen und unserem vollen Terminkalender machte das Projekt oft zur Herausforderung. Doch wir haben gelernt, auch die kleinen Erfolge zu schätzen und uns gegenseitig zu motivieren. Denn schließlich war es unser gemeinsames Ziel, einen Camper zu bauen, der ganz unseren Vorstellungen entspricht.  
 
