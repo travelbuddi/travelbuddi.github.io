@@ -5,6 +5,15 @@ author: franzi
 categories: [Travel]
 image: assets/images/Balkan01.jpg
 tags: [featured]
+carousels:
+  - images:
+    - image: /assets/images/Bosnien01.jpg
+    - image: /assets/images/Bosnien02.jpg
+    - image: /assets/images/Bosnien03.jpg
+  - images: 
+    - image: assets/images/Bosnien01.jpg
+    - image: assets/images/Bosnien02.jpg
+    - image: assets/images/Bosnien03.jpg
 ---
 
 # Osteuropa und der Balkan
@@ -24,6 +33,8 @@ Am nächsten Morgen ging es dann immer weiter der Sonne hinterher, bis wir in Sp
 ![Kroatien2](/assets/images/Kroatien2.jpg){: width="30%"}
 ![Kroatien3](/assets/images/Kroatien3.jpg){: width="30%"}
 
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 ## Bosnien & Herzegowina 
 

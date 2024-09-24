@@ -1,0 +1,9 @@
+carousels:
+  - images:
+    - image: assets/images/Bosnien01.jpg
+    - image: assets/images/Bosnien02.jpg
+    - image: assets/images/Bosnien03.jpg
+  - images: 
+    - image: assets/images/Bosnien01.jpg
+    - image: assets/images/Bosnien02.jpg
+    - image: assets/images/Bosnien03.jpg
