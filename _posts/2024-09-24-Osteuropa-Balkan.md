@@ -20,15 +20,17 @@ Unser erstes Land, abgesehen von Deutschland und Österreich, war Kroatien. Da i
 
 Am nächsten Morgen ging es dann recht früh immer weiter der Sonne hinterher, bis wir in Split angekommen sind. Split ist im Vergleich zu Jadronovo sehr touristisch und viel zu überlaufen für unseren Geschmack. Gefallen hat es uns trotzdem sehr gut. Die antiken Überreste, die Architektur und auch die Nähe zum Wasser lassen das deutsche Herz höher schlagen. in der Stadt haben wir uns  eine Kleinigkeit von einer Bäckerei geholt und uns auf eine Bank gesetzt, um das stetige Treiben zu beobachten. Nach einer Weile haben wir uns auch noch ein Eis gekauft (2,80€ die Kugel - und wir dachten in Wien sind die Eispreise schon hoch!). Gegen Abend haben wir uns dann doch noch auf den Weiterweg Richtung Bosnien & Herzegowina gemacht und haben die erste Ländergrenze außerhalb der EU überquert. 
 
+{:refdef: style="text-align: center;"}
 ![Kroatien1](/assets/images/Kroatien1.jpg){: width="30%"}
 ![Kroatien2](/assets/images/Kroatien2.jpg){: width="30%"}
 ![Kroatien3](/assets/images/Kroatien3.jpg){: width="30%"}
+{: refdef}
 
 
 ## Bosnien & Herzegowina 
-
+{:refdef: style="text-align: center;"}
 ![Busko Jesero](/assets/images/Bosnien01.jpg)
-
+{: refdef}
 
 Unser nächster Halt führte uns nach Bosnien & Herzegowina an den wunderschönen Buško Jezero (siehe Bild), den größten See des Landes. Diesen traumhaften Spot haben wir wieder über Park4Night entdeckt und konnten hier, fernab der touristischen Städte, die Ruhe in vollen Zügen genießen. Hinter der Landesgrenze führt uns eine unscheinbare und doch sehr steinige Straße zu unserem Schlafplatz für die kommenden zwei Nächte. In den drei Tagen begegneten wir nur vereinzelt anderen Menschen – meist lokale Fischer, die bis spät in die Nacht ihre Angeln auswarfen. Trotz Sprachbarrieren konnten wir uns mit Händen und Füßen unterhalten und herausfinden, welche Fische sie hier fangen. Es war eine wunderbare Zeit voller Natur, Gelassenheit und einfachen Begegnungen, die diesen Ort für uns unvergesslich gemacht haben.
 
@@ -38,11 +40,11 @@ Unsere Weitereise bringt und nach Mostar. Mostar ist für seine unglaublichen Br
 
 Nach diesen kulinarischen Erlebnissen geht es mit unserem Camper weiter Richtung Süden. Unterwegs kommen wir an einem alten Kloster vorbei, dem <a href="https://tekijablagaj.ba/en/">Blagaj Tekke</a>, das spektakulär in den Felsen direkt am Fluss gebaut wurde. Schließlich erreichen wir unser nächstes Ziel: die beeindruckenden Kravica-Wasserfälle – ein perfekter Ort, um die Natur zu genießen und den Tag ausklingen zu lassen.
 
-
+{:refdef: style="text-align: center;"}
 ![Bosnien02](/assets/images/Bosnien02.jpg){: width="30%"}
 ![Bosnien03](/assets/images/Bosnien03.jpg){: width="30%"}
 ![Bosnien04](/assets/images/Bosnien04.jpg){: width="30%"}
-
+{: refdef}
 
 #### *Sehenswürdigkeiten:*
 * Buško Jezero
@@ -53,15 +55,18 @@ Nach diesen kulinarischen Erlebnissen geht es mit unserem Camper weiter Richtung
 
 
 
-## Montenegro 
+## Montenegro
+{:refdef: style="text-align: center;"}
 ![Podgorica](/assets/images/Montenegro01.jpg)
+{: refdef}
 
 Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischenstopp auf unserer Durchreise nach Nordmazedonien geplant, hat uns das Land so begeistert, dass wir spontan beschlossen, eine Nacht in der Nähe von Podgorica zu verbringen. Auf einem kleinen Weingut fanden wir einen charmanten Schlafplatz. Dort wird privat eine Weinverkostung mit Essen angeboten, und als besonderes Highlight durften wir im Garten der Gastgeber übernachten – ein unvergleichliches Erlebnis mitten in den Weinbergen mit sehr guten selbstgemachten Weinen - nur zu empfehlen! 
 
+{:refdef: style="text-align: center;"}
 ![Montenegro02](/assets/images/Montenegro02.jpg){: width="30%"}
 ![Montenegro03](/assets/images/Montenegro03.jpg){: width="30%"}
 ![Montenegro04](/assets/images/Montenegro04.jpg){: width="30%"}
-
+{: refdef}
 
 #### *Sehenswürdigkeiten:*
 * Podgorica
@@ -70,8 +75,10 @@ Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischens
 * Durmitor Ring
 
 
-## Nord Mazedonien 
+## Nord Mazedonien
+{:refdef: style="text-align: center;"}
 ![Ohrid](/assets/images/Ohrid01.jpg)
+{: refdef}
 
 Unser drittes Land auf der Reise: Nordmazedonien. Hier besuchen wir Freunde im Süden des Landes, weshalb wir uns entschieden haben, den Rest des Landes für eine spätere, ausführlichere Reise aufzuheben. Wir machen uns also auf den Weg in das kleine Dorf am Ufer des Ohridsees, dem zweitgrößten See Nordmazedoniens und zugleich einem der ältesten Seen der Welt. Der Ohridsee erstreckt sich über zwei Länder – zur Hälfte liegt er in Nordmazedonien, die andere Hälfte gehört zu Albanien. Die Landschaft rund um den See ist atemberaubend, und wir freuen uns darauf, diese einzigartige Region zu erkunden und mehr von ihrer Geschichte und Schönheit zu erfahren, wenn wir das nächste Mal hierher zurückkehren.
 
@@ -79,11 +86,11 @@ Unser drittes Land auf der Reise: Nordmazedonien. Hier besuchen wir Freunde im S
 Auch in der Stadt Ohrid selbst gibt es viel zu entdecken. Schon vom Ufer aus erblickt man die malerische Kirche des Heiligen Johannes von Kaneo, die auf einem Felsen über dem Ohridsee thront. Der Aufstieg zur Kirche mag anstrengend sein, doch die Aussicht von oben macht jede Mühe wett.
 Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über die Dächer von Ohrid. An jeder Ecke gibt es etwas Neues zu entdecken – sei es kleine versteckte Cafés oder historische Gebäude. Besonders beeindruckend sind die Türme der Samuil-Festung, die majestätisch über der Stadt thronen. Von dort aus hat man einen atemberaubenden Blick auf die Altstadt und den glitzernden Ohridsee. Diese Mischung aus Kultur, Geschichte und Natur macht Ohrid zu einem absoluten Highlight unserer Reise. Alles in allem ist dieser Ort nur zu empfehlen und ein echter Tipp gerade für ein paar Tage Seele baumeln lassen.  Ein Geheimtipp ist die Stadt Ohrid leider nicht mehr und wird von vielen Touristen besucht. 
 
-
+{:refdef: style="text-align: center;"}
 ![Ohrid](/assets/images/Ohrid02.jpg){: width="30%"}
 ![Ohrid](/assets/images/Ohrid03.jpg){: width="30%"}
 ![Ohrid](/assets/images/Ohrid04.jpg){: width="30%"}
-
+{: refdef}
 
 
 #### *Sehenswürdigkeiten:*
@@ -108,10 +115,11 @@ Berat haben wir vor allem bei Nacht ins Herz geschlossen, denn da erwacht die St
 Nach Berat ging es für uns in die bekannte Hafenstadt Vlorë. Dort erhoffen wir uns einen Stellplatz direkt am Meer, aber zuerst gibt es in den Lokalen im Zentrum erst einmal eine Stärkung. Nachdem wir uns auch das Stadtzentrum angesehen haben, machen wir uns mit vollem Kühlschrank in richtung Nationalpark. Dort haben wir über Park4Night wieder ein paar Stellplätze gespottet, die wir uns nicht entgehen lassen wollen. Und was sollen wir sagen, wir haben einen einsamen Strand entdeckt (anscheinend ist Mitte September die Badesaison in Albanien bereits zu ende), an dem wir uns es für die nächsten drei Tage gemütlich machen. 
 Bevor es uns wieder in die nächstgrößere Stadt Gjirokater zieht. 
 
+{:refdef: style="text-align: center;"}
 ![Albanien](/assets/images/Albanien02.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien03.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien04.jpg){: width="30%"}
-
+{: refdef}
 
 Die Tage am Meer waren wahrer Balsam für unsere Seelen. Drei volle Tage konnten wir ungestört am Strand liegen, uns sonnen und im kristallklaren Wasser baden. Doch irgendwann packte uns erneut die Abenteuerlust, und so machten wir uns auf den Weg nach Gjirokastra – einer Stadt, die als eines der wichtigsten Kulturerben Albaniens gilt und uns mit ihrer beeindruckenden Lage am Berg sofort in ihren Bann zog. Kaum angekommen, begann es leider zu regnen. Als wir dann zum ersten Mal seit Wochen das Wetter checkten, stellten wir fest, dass es ab der kommenden Woche deutlich kälter und unbeständiger werden soll. Der Herbst kündigt sich an, und wir müssen uns auf kühleres Wetter in Albanien einstellen. Oh nein! Daher heißt es für uns, erstmal keine Übernachtung in Gjirokastra - aber definitv einen Besuch wert - und weiter zu unserem nächsten Stopp. 
 
@@ -119,9 +127,11 @@ Nach unserem Aufenthalt in Gjirokastra führte uns die Reise auf eine enge, kurv
 
 Entlang der SH4 schlängelten wir uns am Fluss Vjosa entlang durch das Gebirge und erreichten schließlich die Stadt Permet. Hier fanden wir einen Campingplatz direkt am Fluss, wo wir für die Nacht blieben. Doch der Regen ließ nicht nach – über Nacht goss es wie aus Eimern. Während wir uns schon Sorgen machten, weggeschwemmt zu werden, stellte sich heraus, dass unser Van nicht nur eine gründliche Reinigung von der salzigen Meeresgischt bekam, sondern auch der Fluss über Nacht kräftig angeschwollen war. Am frühen Morgen machen wir uns auf den Weg und fahren eine noch engere Straße entland bis wir die Thermalbäder erreichen. Auch hier Triggerwarnung: es riecht sehr intensiv nach Schwefel! 
 
+{:refdef: style="text-align: center;"}
 ![Albanien](/assets/images/Albanien05.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien06.jpg){: width="30%"}
 ![Albanien](/assets/images/Albanien07.jpg){: width="30%"}
+{: refdef}
 
 Nach unserem Abstecher ins Landesinnere zieht es uns nun an die albanische Küste. Unser Ziel: Ksamil. Statt den direkten Weg gen Süden zu nehmen, entscheiden wir uns für die atemberaubende Küstenstraße mit ihren Serpentinen. Der Ausblick, der uns hier begegnet, ist einfach spektakulär – die steil abfallenden Felsen, das tiefblaue Meer und die schroffe Küstenlandschaft lassen uns immer wieder anhalten und staunen.
 
@@ -150,9 +160,11 @@ Nach unserer ausgiebigen Erkundung Albaniens führt uns unser Weg weiter nach Se
 
 Das Wetter hat uns bereits in Montenegro einen Strich durch die Rechnung gemacht, wo wir ursprünglich den Durmitor-Ring bewandern und abfahren wollten. Wegen der Kälte und dem ersten Schnee, für den wir nicht ausgerüstet waren, mussten wir diesen Plan schweren Herzens verschieben. Ähnlich ergeht es uns nun in Serbien: Obwohl der Tara-Nationalpark beeindruckend aussieht, entscheiden wir uns, die Besichtigung auf einen späteren Zeitpunkt zu verlegen. So setzen wir unsere Reise fort und erreichen am frühen Vormittag des dritten Tages Belgrad, die lebendige Hauptstadt Serbiens
 
+{:refdef: style="text-align: center;"}
 ![Serbien](/assets/images/Serbien2.jpg){: width="30%"}
 ![Serbien](/assets/images/Serbien3.jpg){: width="30%"}
 ![Serbien](/assets/images/Serbien4.jpg){: width="30%"}
+{: refdef}
 
 In Belgrad haben wir uns die Festung angesehen und das Stadtzentrum. Den Großteils des Tages haben wir in einer Mall, zum Aufwärmen mit einem Kaffee verbracht oder in einer wunderschönen Bibliothek in der Innenstadt. Gleichzeitig können wir die Festung in Belgrad empfehlen, da man einen wunderbaren Ausblick übder die Stadt hat und einige Einblicke in die damalige Zeit erhält. 
 
@@ -168,11 +180,13 @@ In Belgrad haben wir uns die Festung angesehen und das Stadtzentrum. Den Großte
 ## Ungarn  
 ![Budapest](/assets/images/Budapest01.jpg)
 
-Zu guter Letzt haben wir Ungarn durchquert und die Städte Kecskemét und Budapest besucht. In Kecskemét haben wir ein Spa mit Sauna entdeckt, das genau das Richtige war, um uns wieder aufzuwärmen. Die Eintrittspreise von nur 14 Euro für den ganzen Tag waren einfach unschlagbar, sodass wir nicht lange überlegen mussten. Für zwei Nächte haben wir unseren Stellplatz direkt am Badeigenen Parkplatz bezogen, was uns den perfekten Zugang zu den entspannenden Einrichtungen und den Annehmlichkeiten des Spas bietet, bevor es in die Großstadt Budapest ging. Da wir beide bereits vermehrt in der Hauptstadt waren, konnten wir uns zeitlassen und sind ganz gemütlich durch die Stadt geschlendert. In Budapest hat sich endlich die Sonne auch wieder blicken lassen und es war einfach ein guter Abschluss unserer Balkan und Osteuropa Tour. 
+Zu guter Letzt haben wir Ungarn durchquert und die Städte Kecskemét und Budapest besucht. In Kecskemét haben wir ein Spa mit Sauna entdeckt, das genau das Richtige war, um uns wieder aufzuwärmen. Die Eintrittspreise von nur 14 Euro für den ganzen Tag waren einfach unschlagbar, sodass wir nicht lange überlegen mussten. Für zwei Nächte haben wir unseren Stellplatz direkt am Badeigenen Parkplatz bezogen, was uns den perfekten Zugang zu den entspannenden Einrichtungen und den Annehmlichkeiten des Spas bietet, bevor es in die Großstadt Budapest ging. Da wir beide bereits vermehrt in der Hauptstadt waren, konnten wir uns zeitlassen und sind ganz gemütlich durch die Stadt geschlendert. In Budapest hat sich endlich die Sonne auch wieder blicken lassen und es war einfach ein guter Abschluss unserer Balkan und Osteuropa Tour.
 
+{:refdef: style="text-align: center;"}
 ![Ungarn](/assets/images/Ungarn2.jpg){: width="30%"}
 ![Ungarn](/assets/images/Ungarn3.jpg){: width="30%"}
 ![Ungarn](/assets/images/Ungarn4.jpg){: width="30%"}
+{: refdef}
 
 
 #### *Sehenswürdigkeiten:*
