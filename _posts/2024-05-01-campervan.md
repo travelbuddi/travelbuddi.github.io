@@ -62,7 +62,7 @@ Ein weiteres wichtiges Thema ist die Materialbeschaffung. Besonders wenn man den
 * **Zeit**: Die Recherche zu den verschiedenen Themenbereichen ist nicht nur zeitaufwendig, sondern wird auch oft unterschätzt. Hinzu kommt die Materialbeschaffung, die ebenfalls viel Zeit in Anspruch nimmt. Mit jedem Schritt scheint sich ein neues Hindernis aufzutun, sodass wir mehr Zeit in Baumärkten und Online-Shops verbracht haben, als uns lieb war.
  
 
-### Unser Fazit vom ausgebauten VW T5: 
+### Ergebins unseres selbst ausgebauten VW T5: 
 Was sollen wir sagen – wir sind absolut begeistert vom Ergebnis! Unser Van hat bereits einige Urlaube im ausgebauten Zustand erlebt, und bisher gab es nichts, das nicht funktioniert hätte. Da es sich um einen Multivan handelt, ist der Tisch in der Schiebetür verstaut, sodass kein zusätzlicher Stauraum nötig ist. Obwohl wir den kompletten Ausbau, von der Planung bis zur Fertigstellung, nicht ganz in sieben Tagen geschafft haben, ist das Ergebnis genau so geworden, wie wir es uns vorgestellt haben. Ohne die zusätzliche Zeit hätten wir das Projekt in dieser Form vermutlich nicht so erfolgreich umsetzen können.
 
 **Unser Fazit lautet daher**: Auch wenn wir den Umbau nicht in den angestrebten sieben Tagen geschafft haben, lag das vor allem an unserem vollen Terminkalender. Neben unserer Vollzeitarbeit haben wir uns auch Zeit für Familie und Freunde genommen. Trotzdem haben wir in nur einem Monat enorm viel erreicht und können stolz auf das Ergebnis sein.
