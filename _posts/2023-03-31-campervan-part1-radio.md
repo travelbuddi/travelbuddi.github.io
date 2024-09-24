@@ -13,7 +13,7 @@ Mit dem Einbau eines modernen DIN-2 Radios wollten wir endlich mehr Komfort und 
 
 ## Gründe, warum ihr euch ein Radio Upgrade übrelegen solltet: 
 
-In diesem Beitrag möchten wir euch genauer vorstellen, warum wir uns für den Pioneer SPH-DA160DAB entschieden haben und welche Erfahrungen wir bisher damit gemacht haben. Wir gehen auf die Installation, die Funktionen und die Soundqualität ein und zeigen euch, wie ihr euer Smartphone ganz einfach mit dem Radio verbindet.
+In diesem Beitrag möchten wir euch genauer vorstellen, warum wir uns für den <a href="https://amzn.to/3MUbPWx">Pioneer SPH-DA160DAB</a> (*Werbung) entschieden haben und welche Erfahrungen wir bisher damit gemacht haben. Wir gehen auf die Installation, die Funktionen und die Soundqualität ein und zeigen euch, wie ihr euer Smartphone ganz einfach mit dem Radio verbindet.
 
 Wir haben uns bereits mit einem Bluetooth FM Transmitter versucht, jedoch verändert sich während der Fahrt oft die Frequenz, wodurch das Signal oft gestört wurde.
 
@@ -21,7 +21,7 @@ Daher hatten wir eigentlich immer eine externe Bluetooth Box mit dabei. Vom Klan
 
 Letztendlich haben wir uns entschieden einen DIN-2 Radio einzubauen und gegen einen Android Radio entschieden, da diese oft nicht sehr hochwertig sein sollen. 
 
-Entschieden haben wir uns für den Pioneer SPH-DA160DAB.
+Entschieden haben wir uns für den  <a href="https://amzn.to/3MUbPWx">Pioneer SPH-DA160DAB</a> (*Werbung).
 
 Das Interface ist sehr schlicht gehalten und die Anordnung der Menü Buttons ist auf 2 Seiten verteilt. Demzufolge sind einige Buttons ausgegraut wie zum Beispiel das UKW Radio oder CarPlay wenn kein Handy angesteckt ist, was wiederum nicht besonders ansprechend aussieht.
 
