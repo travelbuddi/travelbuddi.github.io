@@ -18,5 +18,5 @@ Unsere Reisen.
 <a href="{% post_url 2024-02-22-morocco %}">Marokko: Eine Reise durch die Vielfalt Nordafrikas</a>
 
 ### Osteuropa 
-<a href="{% post_url 2024-09-24-Osteuropa-Balkan %}">Osteuropa und der Balkan mit dem Van 2024 🚌</a>Osteuropa und der Balkan mit dem Van 2024 🚌
+<a href="{% post_url 2024-09-24-Osteuropa-Balkan %}">Osteuropa und der Balkan mit dem Van 2024 🚌</a>
 
