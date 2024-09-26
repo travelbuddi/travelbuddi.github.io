@@ -8,17 +8,17 @@ tags: [featured]
 ---
 
 # Osteuropa und der Balkan
-In diesem Beitrag geht es um unsere Balkanreise mit dem selbst ausgebauten VW Bus Wollma.. Im Jahr 2024 ist ein selbst ausgebauter Van zwar keine Seltenheit mehr, doch für uns war es die erste mehrwöchige Reise mit dem neuen Campervan. Die serpentinenreichen Straßen, engen Gassen und teils kaum vorhandenen Straßen stellten unsere Nerven auf eine oder andere harte Probe.
+In diesem Beitrag geht es um unsere Balkanreise mit dem selbst ausgebauten VW Bus Wollma. Im Jahr 2024 ist ein selbst ausgebauter Van zwar keine Seltenheit mehr, doch für uns war es die erste mehrwöchige Reise mit dem neuen Campervan. Die serpentinenreichen Straßen, engen Gassen und teils kaum vorhandenen Straßen stellten unsere Nerven auf eine oder andere harte Probe.
 
 #### Reisevorbereitungen:  
-Da Albanien von Österreich aus nun nicht der nahegelegenste Urlaubsort ist, haben wir uns vorgenommen, mehrere Länder des Balkans zu bereisen und erneut die Orte zu besuchen, die uns am meisten gefallen haben. Dieser Beitrag soll einen groben Überblick über Osteuropa und den Balkan geben und bestenfalls eine Anregung für eine zukünftige Reise sein. Für unsere Stellplätze  haben wir die App <a href="https://park4night.com/de">Park4Night </a> genutzt, um nicht nur gute Spots, sondern auch kostenlose Schlafmöglichkeiten zu finden. Diese App können wir euch auch nur ans Herz legen, solltet ihr autark unterwegs sein und mal ein paar Tage ab vom Schuss verbringen woll. 
+Da Albanien von Österreich aus nun nicht der nahegelegenste Urlaubsort ist, haben wir uns vorgenommen, mehrere Länder des Balkans zu bereisen und erneut die Orte zu besuchen, die uns am meisten gefallen haben. Dieser Beitrag soll einen groben Überblick über Osteuropa und den Balkan geben und bestenfalls eine Anregung für eine zukünftige Reise sein. Für unsere Stellplätze  haben wir die App <a href="https://park4night.com/de">Park4Night</a> genutzt, um nicht nur gute Spots, sondern auch kostenlose Schlafmöglichkeiten zu finden. Diese App können wir euch auch nur ans Herz legen, solltet ihr autark unterwegs sein und mal ein paar Tage ab vom Schuss verbringen woll.
 
 
 ## Kroatien 
 Unser erstes Land, abgesehen von Deutschland und Österreich, war Kroatien. Da ich persönlich noch nie in Kroatien war, haben wir uns entschieden, auch hier den ein oder anderen Ort zu erkunden. Als erstes sind wir in einem verschlafenen Örtchen namens Jadronovo gelandet (45.23186302952023, 14.611717329807528). Hier haben wir im Touristenbüro nachgefragt und durften für eine Nacht bei Ihnen am Parkplatz übernachten. Am Strand haben wir Abends gut gegessen und sind in der Früh, bevor es weiter Richtung Süden ging, noch eine Runde im Meer geschwommen. Der verträumte Ort Jadronovo ist auf jeden Fall ein Besuch wert. 
 
 
-Am nächsten Morgen ging es dann recht früh immer weiter der Sonne hinterher, bis wir in Split angekommen sind. Split ist im Vergleich zu Jadronovo sehr touristisch und viel zu überlaufen für unseren Geschmack. Gefallen hat es uns trotzdem sehr gut. Die antiken Überreste, die Architektur und auch die Nähe zum Wasser lassen das deutsche Herz höher schlagen. in der Stadt haben wir uns  eine Kleinigkeit von einer Bäckerei geholt und uns auf eine Bank gesetzt, um das stetige Treiben zu beobachten. Nach einer Weile haben wir uns auch noch ein Eis gekauft (2,80€ die Kugel - und wir dachten in Wien sind die Eispreise schon hoch!). Gegen Abend haben wir uns dann doch noch auf den Weiterweg Richtung Bosnien & Herzegowina gemacht und haben die erste Ländergrenze außerhalb der EU überquert. 
+Am nächsten Morgen ging es dann recht früh immer weiter der Sonne hinterher, bis wir in Split angekommen sind. Split ist im Vergleich zu Jadronovo sehr touristisch und viel zu überlaufen für unseren Geschmack. Gefallen hat es uns trotzdem sehr gut. Die antiken Überreste, die Architektur und auch die Nähe zum Wasser lassen das deutsche Herz höher schlagen. In der Stadt haben wir uns eine Kleinigkeit von einer Bäckerei geholt und uns auf eine Bank gesetzt, um das stetige Treiben zu beobachten. Nach einer Weile haben wir uns auch noch ein Eis gekauft (2,80€ die Kugel - und wir dachten in Wien sind die Eispreise schon hoch!). Gegen Abend haben wir uns dann doch noch auf den Weiterweg Richtung Bosnien & Herzegowina gemacht und haben die erste Ländergrenze außerhalb der EU überquert. 
 
 {:refdef: style="text-align: center;"}
 ![Kroatien1](/assets/images/Kroatien1.jpg){: width="30%"}
@@ -60,7 +60,7 @@ Nach diesen kulinarischen Erlebnissen geht es mit unserem Camper weiter Richtung
 ![Podgorica](/assets/images/Montenegro01.jpg)
 {: refdef}
 
-Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischenstopp auf unserer Durchreise nach Nordmazedonien geplant, hat uns das Land so begeistert, dass wir spontan beschlossen, eine Nacht in der Nähe von Podgorica zu verbringen. Auf einem kleinen Weingut fanden wir einen charmanten Schlafplatz. Dort wird privat eine Weinverkostung mit Essen angeboten, und als besonderes Highlight durften wir im Garten der Gastgeber übernachten – ein unvergleichliches Erlebnis mitten in den Weinbergen mit sehr guten selbstgemachten Weinen - nur zu empfehlen! 
+Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischenstopp auf unserer Durchreise nach Nordmazedonien geplant, hat uns das Land so begeistert, dass wir spontan beschlossen, eine Nacht in der Nähe von Podgorica zu verbringen. Auf einem kleinen Weingut fanden wir einen charmanten Schlafplatz. Dort wird privat eine Weinverkostung mit Essen angeboten, und als besonderes Highlight durften wir im Garten der Gastgeber übernachten – ein unvergleichliches Erlebnis mitten in den Weingärten mit sehr guten selbstgemachten Weinen - nur zu empfehlen!
 
 {:refdef: style="text-align: center;"}
 ![Montenegro02](/assets/images/Montenegro02.jpg){: width="30%"}
@@ -70,7 +70,7 @@ Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischens
 
 #### *Sehenswürdigkeiten:*
 * Podgorica
-* <a href="https://www.lonelyplanet.com/montenegro/podgorica/attractions/niagara-falls/a/poi-sig/1543410/360160">Nijagara Waterfall </a>
+* <a href="https://www.lonelyplanet.com/montenegro/podgorica/attractions/niagara-falls/a/poi-sig/1543410/360160">Nijagara Waterfall</a>
 * Weinverkostung
 * Durmitor Ring
 
@@ -80,11 +80,11 @@ Das nächste Land auf unserer Liste: Montenegro. Ursprünglich nur als Zwischens
 ![Ohrid](/assets/images/Ohrid01.jpg)
 {: refdef}
 
-Unser drittes Land auf der Reise: Nordmazedonien. Hier besuchen wir Freunde im Süden des Landes, weshalb wir uns entschieden haben, den Rest des Landes für eine spätere, ausführlichere Reise aufzuheben. Wir machen uns also auf den Weg in das kleine Dorf am Ufer des Ohridsees, dem zweitgrößten See Nordmazedoniens und zugleich einem der ältesten Seen der Welt. Der Ohridsee erstreckt sich über zwei Länder – zur Hälfte liegt er in Nordmazedonien, die andere Hälfte gehört zu Albanien. Die Landschaft rund um den See ist atemberaubend, und wir freuen uns darauf, diese einzigartige Region zu erkunden und mehr von ihrer Geschichte und Schönheit zu erfahren, wenn wir das nächste Mal hierher zurückkehren.
+Unser drittes Land auf der Reise: Nordmazedonien. Hier besuchen wir Freunde im Süden des Landes, weshalb wir uns entschieden haben, den Rest des Landes für eine spätere, ausführlichere Reise aufzuheben. Wir machen uns also auf den Weg in das kleine Dorf am Ufer des Ohridsees, dem zweitgrößten See Nordmazedoniens und zugleich einem der ältesten Seen der Welt. Der Ohridsee erstreckt sich über zwei Länder – zur Hälfte liegt er in Nordmazedonien, die andere Hälfte gehört zu Albanien. Die Landschaft rund um den See ist atemberaubend, und wir freuen uns darauf, diese einzigartige Region zu erkunden und mehr von ihrer Geschichte und Schönheit zu erfahren, wenn wir das nächste Mal hierher zurückkehren. Der Ohridsee ist zudem einer der ältesten Seen der Welt. Bei einem Alter von über 1 Millionen Jahre ist es kaum verwunderlich, dass sich hier Fischarten entwickelt haben, die es sonst nirgendwo zu finden gibt.
 
 
 Auch in der Stadt Ohrid selbst gibt es viel zu entdecken. Schon vom Ufer aus erblickt man die malerische Kirche des Heiligen Johannes von Kaneo, die auf einem Felsen über dem Ohridsee thront. Der Aufstieg zur Kirche mag anstrengend sein, doch die Aussicht von oben macht jede Mühe wett.
-Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über die Dächer von Ohrid. An jeder Ecke gibt es etwas Neues zu entdecken – sei es kleine versteckte Cafés oder historische Gebäude. Besonders beeindruckend sind die Türme der Samuil-Festung, die majestätisch über der Stadt thronen. Von dort aus hat man einen atemberaubenden Blick auf die Altstadt und den glitzernden Ohridsee. Diese Mischung aus Kultur, Geschichte und Natur macht Ohrid zu einem absoluten Highlight unserer Reise. Alles in allem ist dieser Ort nur zu empfehlen und ein echter Tipp gerade für ein paar Tage Seele baumeln lassen.  Ein Geheimtipp ist die Stadt Ohrid leider nicht mehr und wird von vielen Touristen besucht. 
+Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über die Dächer von Ohrid. An jeder Ecke gibt es etwas Neues zu entdecken – sei es kleine versteckte Cafés oder historische Gebäude. Besonders beeindruckend sind die Türme der Samuil-Festung, die majestätisch über der Stadt thronen. Von dort aus hat man einen atemberaubenden Blick auf die Altstadt und den glitzernden Ohridsee. Diese Mischung aus Kultur, Geschichte und Natur macht Ohrid zu einem absoluten Highlight unserer Reise. Alles in allem ist dieser Ort nur zu empfehlen und ein echter Tipp gerade für ein paar Tage Seele baumeln lassen. Ein Geheimtipp ist die Stadt Ohrid leider nicht mehr und wird von vielen Touristen besucht.
 
 {:refdef: style="text-align: center;"}
 ![Ohrid](/assets/images/Ohrid02.jpg){: width="30%"}
@@ -107,13 +107,13 @@ Wir schlendern durch die engen Gassen der Altstadt und genießen den Blick über
 Nun haben wir unser viertes Land auf der Route und unser Hauptziel erreicht: Albanien. Der Balkan, und insbesondere Albanien, erlebt derzeit einen touristischen Aufschwung. Deshalb möchten wir die Landschaften und die Kultur Albaniens noch vor dem großen Ansturm erkunden. Nach über 2.000 Kilometern, die wir hinter uns gelassen haben, sind wir endlich angekommen – im Land mit den schlechtesten Straßen, die wir bisher gesehen haben. Es beginnt harmlos auf einem Highway, bis dieser plötzlich einspurig und letztlich komplett unbefahrbar wird. Wir finden uns auf einer holprigen Schotterpiste wieder und müssen uns durch unzählige Schlaglöcher kämpfen. Trotz dieser Herausforderungen lassen wir uns nicht entmutigen und setzen unseren Weg fort Richtung Berat, der „Stadt der 1000 Fenster“. Dieser Spitzname bezieht sich auf die vielen Fenster, die in die alten, traditionellen Wohnhäuser eingebaut sind. Wir freuen uns darauf, mehr von Albanien zu entdecken – mit all seinen Ecken, Kanten und seiner einzigartigen Schönheit.
 
 
-Berat haben wir vor allem bei Nacht ins Herz geschlossen, denn da erwacht die Stadt zum Leben. Nach einem ausgiebigen Spaziergang haben wir das Stadtzentrum erreicht. Dort gibt es viele kleine Stände am Straßenrand mit Snacks und kleinen Souvenirs. Wir haben uns für selbstgemachtes Popkorn und einen Magneten entschieden. Auf dem Weg zurück zu unserem Campingplatz haben wir dann den Weg über die Burg genommen. Spoiler: es ist wahnsinnig steil! 
+Berat haben wir vor allem bei Nacht ins Herz geschlossen, denn da erwacht die Stadt zum Leben. Nach einem ausgiebigen Spaziergang haben wir das Stadtzentrum erreicht. Dort gibt es viele kleine Stände am Straßenrand mit Snacks und kleinen Souvenirs. Wir haben uns für selbstgemachtes Popkorn und einen Magneten entschieden. Auf dem Weg zurück zu unserem Campingplatz haben wir dann den Weg über die Burg genommen. Spoiler: Es ist wahnsinnig steil! 
 
 
 ![Albanien](/assets/images/Albanien012.jpg)
 
-Nach Berat ging es für uns in die bekannte Hafenstadt Vlorë. Dort erhoffen wir uns einen Stellplatz direkt am Meer, aber zuerst gibt es in den Lokalen im Zentrum erst einmal eine Stärkung. Nachdem wir uns auch das Stadtzentrum angesehen haben, machen wir uns mit vollem Kühlschrank in richtung Nationalpark. Dort haben wir über Park4Night wieder ein paar Stellplätze gespottet, die wir uns nicht entgehen lassen wollen. Und was sollen wir sagen, wir haben einen einsamen Strand entdeckt (anscheinend ist Mitte September die Badesaison in Albanien bereits zu ende), an dem wir uns es für die nächsten drei Tage gemütlich machen. 
-Bevor es uns wieder in die nächstgrößere Stadt Gjirokater zieht. 
+Nach Berat ging es für uns in die bekannte Hafenstadt Vlorë. Dort erhoffen wir uns einen Stellplatz direkt am Meer, aber zuerst gibt es in den Lokalen im Zentrum erst einmal eine Stärkung. Nachdem wir uns auch das Stadtzentrum angesehen haben, machen wir uns mit vollem Kühlschrank in richtung Nationalpark. Dort haben wir über Park4Night wieder ein paar Stellplätze gespottet, die wir uns nicht entgehen lassen wollen. Und was sollen wir sagen, wir haben einen einsamen Strand entdeckt (anscheinend ist Mitte September die Badesaison in Albanien bereits zu Ende), an dem wir uns es für die nächsten drei Tage gemütlich machen. 
+Bevor es uns wieder in die nächstgrößere Stadt Gjirokastra zieht.
 
 {:refdef: style="text-align: center;"}
 ![Albanien](/assets/images/Albanien02.jpg){: width="30%"}
@@ -123,9 +123,9 @@ Bevor es uns wieder in die nächstgrößere Stadt Gjirokater zieht.
 
 Die Tage am Meer waren wahrer Balsam für unsere Seelen. Drei volle Tage konnten wir ungestört am Strand liegen, uns sonnen und im kristallklaren Wasser baden. Doch irgendwann packte uns erneut die Abenteuerlust, und so machten wir uns auf den Weg nach Gjirokastra – einer Stadt, die als eines der wichtigsten Kulturerben Albaniens gilt und uns mit ihrer beeindruckenden Lage am Berg sofort in ihren Bann zog. Kaum angekommen, begann es leider zu regnen. Als wir dann zum ersten Mal seit Wochen das Wetter checkten, stellten wir fest, dass es ab der kommenden Woche deutlich kälter und unbeständiger werden soll. Der Herbst kündigt sich an, und wir müssen uns auf kühleres Wetter in Albanien einstellen. Oh nein! Daher heißt es für uns, erstmal keine Übernachtung in Gjirokastra - aber definitv einen Besuch wert - und weiter zu unserem nächsten Stopp. 
 
-Nach unserem Aufenthalt in Gjirokastra führte uns die Reise auf eine enge, kurvenreiche Straße, begleitet von strömendem Regen, nach Benje-Novosele. Dort wollten wir die berühmten Thermalbäder Albaniens erkunden. Bei den aktuellen Temperaturen und dem anhaltenden Regen klangen die 38 Grad warmen Naturbäder besonders verlockend.
+Nach unserem Aufenthalt in Gjirokastra führte uns die Reise auf eine enge, kurvenreiche Straße, begleitet von strömendem Regen, nach Benje-Novosele. Dort wollten wir die berühmten Thermalbäder Albaniens erkunden. Bei den aktuellen Temperaturen und dem anhaltenden Regen klangen die 28 Grad warmen Naturbäder besonders verlockend.
 
-Entlang der SH4 schlängelten wir uns am Fluss Vjosa entlang durch das Gebirge und erreichten schließlich die Stadt Permet. Hier fanden wir einen Campingplatz direkt am Fluss, wo wir für die Nacht blieben. Doch der Regen ließ nicht nach – über Nacht goss es wie aus Eimern. Während wir uns schon Sorgen machten, weggeschwemmt zu werden, stellte sich heraus, dass unser Van nicht nur eine gründliche Reinigung von der salzigen Meeresgischt bekam, sondern auch der Fluss über Nacht kräftig angeschwollen war. Am frühen Morgen machen wir uns auf den Weg und fahren eine noch engere Straße entland bis wir die Thermalbäder erreichen. Auch hier Triggerwarnung: es riecht sehr intensiv nach Schwefel! 
+Entlang der SH4 schlängelten wir uns am Fluss Vjosa entlang durch das Gebirge und erreichten schließlich die Stadt Permet. Hier fanden wir einen Campingplatz direkt am Fluss, wo wir für die Nacht blieben. Doch der Regen ließ nicht nach – über Nacht goss es wie aus Eimern. Während wir uns schon Sorgen machten, weggeschwemmt zu werden, stellte sich heraus, dass unser Van nicht nur eine gründliche Reinigung von der salzigen Meeresgischt bekam, sondern auch der Fluss über Nacht kräftig angeschwollen war. Am frühen Morgen machen wir uns auf den Weg und fahren eine noch engere Straße entland bis wir die Thermalbäder erreichen. Auch hier Triggerwarnung: Es riecht sehr intensiv nach Schwefel! 
 
 {:refdef: style="text-align: center;"}
 ![Albanien](/assets/images/Albanien05.jpg){: width="30%"}
@@ -137,7 +137,9 @@ Nach unserem Abstecher ins Landesinnere zieht es uns nun an die albanische Küst
 
 In Ksamil spüren wir den zunehmenden Tourismus, der im Landesinneren bislang noch weitgehend ausbleibt. Doch man sieht deutlich, dass Albanien derzeit stark in seine Infrastruktur investiert – überall begegnen uns Baustellen, die darauf hindeuten, dass sich hier einiges tut. Trotz der Bauarbeiten freuen wir uns, dass die Straßen ausgebaut werden, und können es kaum erwarten, die Küste weiter zu erkunden.
 
-Anschließend entscheiden wir uns noch für einen Aufenthalt in den Albanischen Alpanen. Daher heißt es: den ganzen Weg vom Süden wieder hinauf in den Norden. Durch die Streckenbeschaffenheit und auch die Serpentinenreiche Umgebung, dauert das eine ganze Weile. Demnach machen wir einen kleinen Zwischenstopp in Shkpodra am See, bevor wir die 2 stündige Fahrt nach Teth auf uns nehmen. Sidefact, wir haben mittlerweile 3.000 km Strecke zurückgelegt. 
+Anschließend entscheiden wir uns noch für einen Aufenthalt in den Albanischen Alpen. Daher heißt es: den ganzen Weg vom Süden wieder hinauf in den Norden. Durch die Streckenbeschaffenheit und auch die Serpentinenreiche Umgebung, dauert das eine ganze Weile. Demnach machen wir einen kleinen Zwischenstopp in Shkpodra am See, bevor wir die 2 stündige Fahrt nach Teth auf uns nehmen. Sidefact, wir haben mittlerweile 3.000 km Strecke zurückgelegt.
+
+Außerdem kommen wir an der historischen Stadt Himare vorbei. Gegen eine kleine Gebühr kann man hier durch die Altstadt und die Burg von Himare schlender. Die enge Gassen, welchen mit uralten Steinen gepflastert sind, fanden wir super schön. Auch trafen wir nur wenige andere Besucher und genossen den Spaziergang durch Himare sehr.
 
 ![Albanien](/assets/images/Albanien08.jpg)
 
@@ -148,7 +150,8 @@ Anschließend entscheiden wir uns noch für einen Aufenthalt in den Albanischen 
 * Gjirokastra
 * Shkodra - Stadt und See
 * Teth - Albanische Alpen 
-* Ksamil Beach 
+* Ksamil Beach
+* Himare - Altstadt und Burg
 * Permet - Thermal Baths 
 
 
