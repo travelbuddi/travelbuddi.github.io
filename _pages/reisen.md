@@ -9,7 +9,7 @@ Unsere Reisen.
 <a href="{% post_url 2022-09-24-brazil %}">Brasilien hautnah: Von Nord nach Süd in 6 Wochen</a>
 
 ### Niederlande 
-<a href="{% post_url 2023-02-06-benelux%}">Belgien, Niederlande und Luxemburg auf eigene Faust</a>
+<a href="{% post_url 2023-02-06-benelux %}">Belgien, Niederlande und Luxemburg auf eigene Faust</a>
 
 ### Sizilien
 <a href="{% post_url 2023-11-01-sicily %}">Entecke die Schöhneit Siziliens: Catania vs Palermo</a>
