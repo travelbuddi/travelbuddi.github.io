@@ -83,8 +83,16 @@ Ein persönliches Learning ist, dass Social Media oft ein verzerrtes Bild der Re
 
 #### Zusätzliche Aspekte, die für einen Ausbau interessant sein können:
 
-* **Kosten:** Wie viel haben wir nun insgesamt bezahlt? 
-Hier könnt ihr eine Liste mit unseren Gesamtausgaben finden. 
-* **Ausstattung:** Welche Ausstattung habrn wir verwendet und eingebaut (Bett, Küche, Dusche, etc.)?
-* **Inspiration:** Wo haben wir unsere Ideen her? 
+**Kosten:** Wie viel haben wir nun insgesamt bezahlt? Hier könnt ihr eine Liste mit unseren Gesamtausgaben finden. 
+* Innenausbau / Grundierung 
+* Materialkosten
+**Ausstattung:** Welche Ausstattung habrn wir verwendet und eingebaut (Bett, Küche, Dusche, etc.)?
+* Küche 
+* Auszüge
+* Wohnzimmer 
+* Bad 
+**Inspiration:** Wo haben wir unsere Ideen her? 
+* Pinterest 
+* Instagram 
+* Youtube 
 
