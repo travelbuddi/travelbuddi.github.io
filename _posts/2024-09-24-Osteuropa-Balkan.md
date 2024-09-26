@@ -139,7 +139,7 @@ In Ksamil spüren wir den zunehmenden Tourismus, der im Landesinneren bislang no
 
 Anschließend entscheiden wir uns noch für einen Aufenthalt in den Albanischen Alpen. Daher heißt es: den ganzen Weg vom Süden wieder hinauf in den Norden. Durch die Streckenbeschaffenheit und auch die Serpentinenreiche Umgebung, dauert das eine ganze Weile. Demnach machen wir einen kleinen Zwischenstopp in Shkpodra am See, bevor wir die 2 stündige Fahrt nach Teth auf uns nehmen. Sidefact, wir haben mittlerweile 3.000 km Strecke zurückgelegt.
 
-Außerdem kommen wir an der historischen Stadt Himare vorbei. Gegen eine kleine Gebühr kann man hier durch die Altstadt und die Burg von Himare schlender. Die enge Gassen, welchen mit uralten Steinen gepflastert sind, fanden wir super schön. Auch trafen wir nur wenige andere Besucher und genossen den Spaziergang durch Himare sehr.
+Außerdem kommen wir an der historischen Stadt Himare vorbei. Gegen eine kleine Gebühr kann man hier durch die Altstadt und die Burg schlendern. Die enge Gassen, welchen mit uralten Steinen gepflastert sind, fanden wir super schön. Auch trafen wir nur wenige andere Besucher und genossen den Spaziergang durch Himare sehr.
 
 ![Albanien](/assets/images/Albanien08.jpg)
 
