@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Part 1 - Radio Upgrade - Campervan Umbau"
+title:  "Campervan Umbau - Radio Upgrade"
 author: jonas
 categories: [ Travel, Tutorial ]
-image: assets/images/Autoradio.jpg
+image: assets/images/Autoradio_new.jpg
 tags: []
 ---
 
@@ -25,4 +25,4 @@ Entschieden haben wir uns für den  <a href="https://amzn.to/3MUbPWx">Pioneer SP
 
 Das Interface ist sehr schlicht gehalten und die Anordnung der Menü Buttons ist auf 2 Seiten verteilt. Demzufolge sind einige Buttons ausgegraut wie zum Beispiel das UKW Radio oder CarPlay wenn kein Handy angesteckt ist, was wiederum nicht besonders ansprechend aussieht.
 
-![This is an Image](/assets/images/Autoradio.jpg)
+![radio](/assets/images/Autoradio_old.jpg)
