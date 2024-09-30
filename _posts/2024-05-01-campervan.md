@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ist es möglich, einen Campervan in nur einer Woche auszubauen?"
+title:  "Ist es möglich, einen Campervan in 7 Tagen auszubauen?"
 author: franzi
 categories: [ Travel, Tutorial ]
 image: assets/images/campervan_build.jpg
