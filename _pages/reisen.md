@@ -12,6 +12,7 @@ permalink: "/reisen.html"
 
 ### Sizilien
 <a href="{% post_url 2023-11-01-sicily %}">Entecke die Schöhneit Siziliens: Catania vs Palermo</a>
+In diesem Beitrag nehmen wir euch mit auf unsere Reise durch Sizilien – von den beeindruckenden barocken Straßen Catanias über den majestätischen Vulkan Ätna bis hin zu den traumhaften Stränden von Taormina und Castellammare del Golfo. Erlebt mit uns die Highlights der Insel!
 
 ### Marokko 
 <a href="{% post_url 2024-02-22-morocco %}">Marokko: Eine Reise durch die Vielfalt Nordafrikas</a>
