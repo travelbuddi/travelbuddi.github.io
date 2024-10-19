@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Willkommen bei Travel Buddi!"
+description: "Willkommen bei Travel Buddi, der Seite für Tipps und Tricks übers Reisen"
 categories: [Travel]
 image: assets/images/Travelbuddii.jpg
 ---

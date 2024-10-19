@@ -1,11 +1,12 @@
 # Site
 name: 'Travel Buddi'
 title: 'Travel Buddi'
+tagline: 'A blog for tipps, tricks and experiences about traveling the world.'
 description: 'A travel blog that shows the magic of exploring the world.'
 logo: 'assets/images/desert_island.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-url: 'https://travelbuddi.github.io'
+url: 'https://travelbuddi.de'
 # disqus: 'demowebsite'
 # email: 'wowthemesnet@gmail.com'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -16,14 +17,14 @@ permalink: /:title/
 # Plugins
 plugins: 
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
   
 authors:
     franzi:
       name:           Franzi
-      site:           https://travelbuddi.github.io/
+      site:           https://travelbuddi.de
       avatar:         assets/images/franzi.jpeg
       bio:            "Hallo zusammen, ich bin Franzi! <br> Mit 25 Jahren habe ich schon einiges von der Welt gesehen: von Australien über Amerika bis hin zu Südamerika. Seit zwei Jahren nenne ich Wien mein Zuhause. Unser jüngstes Abenteuer? Einen Mini Van in einen Camper verwandeln!"
       #email:          wowthemesnet@gmail.com
