@@ -5,7 +5,7 @@ permalink: "/reisen.html"
 
 
 ### Brasilien 
-<a href="{% post_url 2022-09-24-brazil %}">Brasilien hautnah: Von Nord nach Süd in 6 Wochen</a>
+<a href="{% post_url 2022-09-24-brazil %}">Brasilien hautnah: Von Nord nach Süd in 6 Wochen</a>. Unsere sechswöchige Brasilienreise führte uns durch faszinierende Städte, beeindruckende Naturwunder und kulturelle Highlights – von der lebhaften Energie Rios über die historischen Schätze Salvadors bis hin zu den majestätischen Iguazu-Wasserfällen. Ein Land voller Kontraste, das Abenteuer, Entspannung und kulturelle Vielfalt in Perfektion vereint.
 
 ### Niederlande 
 <a href="{% post_url 2023-02-06-benelux %}">Belgien, Niederlande und Luxemburg auf eigene Faust</a>
