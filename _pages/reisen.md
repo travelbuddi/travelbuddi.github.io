@@ -8,7 +8,7 @@ permalink: "/reisen.html"
 <a href="{% post_url 2022-09-24-brazil %}">Brasilien hautnah: Von Nord nach Süd in 6 Wochen</a>. Unsere sechswöchige Brasilienreise führte uns durch faszinierende Städte, beeindruckende Naturwunder und kulturelle Highlights – von der lebhaften Energie Rios über die historischen Schätze Salvadors bis hin zu den majestätischen Iguazu-Wasserfällen. Ein Land voller Kontraste, das Abenteuer, Entspannung und kulturelle Vielfalt in Perfektion vereint.
 
 ### Niederlande 
-<a href="{% post_url 2023-02-06-benelux %}">Belgien, Niederlande und Luxemburg auf eigene Faust</a>. Ein Monat BENELUX mit dem Van. 
+<a href="{% post_url 2023-02-06-benelux %}">Belgien, Niederlande und Luxemburg auf eigene Faust</a>. Ein Monat BENELUX mit dem Van. Unsere nächste Reise mit unserem Van Wollma geht in die Niederlande. Fun Fact, zu diesem Zeitpunkt war unser Campervan noch nicht ausgebaut und wir haben auf der umgeklappten Sitzbank geschlafen. Startpunkt war unsere Heimat Regensburg dann ging es über Luxemburg nach Belgien. Anschließend geht es über die Niederlande nach Hamburg und wieder zurück nach Hause. 
 
 ### Sizilien
 <a href="{% post_url 2023-11-01-sicily %}">Entecke die Schöhneit Siziliens: Catania vs Palermo</a>
