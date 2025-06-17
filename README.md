@@ -67,10 +67,24 @@ List
 - Third item
 ```
 
+## Installation Windows
+- Get Ruby: https://rubyinstaller.org/downloads/
+- Run in the last step of the installation
+```
+ridk install
+```
+- Run in new terminal
+```
+gem install jekyll bundler
+```
 
 
 ## Run locally
 ```
 bundle install
 bundle exec jekyll serve --no-watch
+```
+For auto reload
+```
+bundle exec jekyll serve --watch
 ```
