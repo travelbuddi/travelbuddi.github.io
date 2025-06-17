@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Entlang Australiens Ostküste: Von Sydney nach Byron Bay"
+title: "Australiens Ostküste entlang: Von Sydney nach Byron Bay"
 author: franzi
 categories: [Travel]
 image: assets/images/Australientitelbild.jpg
@@ -11,36 +11,15 @@ tags: [featured]
 
 ### Australien - das Land meiner Träume
  
-![Australien](/assets/images/aussie01.jpg)
+![Australien](/assets/images/aussie16.jpg)
 
 ABC
 
-{:refdef: style="text-align: center;"}
-![AUS](/assets/images/aussie02.jpg){: width="30%"}
-![AUS](/assets/images/aussie03.jpg){: width="30%"}
-![AUS](/assets/images/aussie04.jpg){: width="30%"}
-{: refdef}
-
-ABC
-
-{:refdef: style="text-align: center;"}
-![AUS](/assets/images/aussie02.jpg){: width="30%"}
-![AUS](/assets/images/aussie03.jpg){: width="30%"}
-![AUS](/assets/images/aussie04.jpg){: width="30%"}
-{: refdef}
-
-#### *Nützliche Infos: Freedom Camping und Pack'n'Save*
-
-* Free
-* Nebensaison nutzen 
-* Supermärkte
-* Voll 
-* Nützliche Apps
 
 
 ### Huskinsson Bay
 
-![Australien](/assets/images/aussie01.jpg)
+![Australien](/assets/images/aussie15.jpg)
 
 ABC
 
@@ -56,41 +35,38 @@ ABC
 ### Port Macquarie - Port Plomer 
 ABC
 
-![Australien](/assets/images/aussie01.jpg)
+![Australien](/assets/images/aussie17.jpg)
 
 ABC
 
 {:refdef: style="text-align: center;"}
-![AUS](/assets/images/aussie02.jpg){: width="30%"}
-![AUS](/assets/images/aussie03.jpg){: width="30%"}
-![AUS](/assets/images/aussie04.jpg){: width="30%"}
+![AUS](/assets/images/aussie18.jpg){: width="30%"}
+![AUS](/assets/images/aussie19.jpg){: width="30%"}
+![AUS](/assets/images/aussie20.jpg){: width="30%"}
 {: refdef}
 
 
-ABC
-
-![Australien](/assets/images/aussie01.jpg)
 
 ABC
 
-#### *Good To Know:*
-* Shuttel Service Hin- und Zurück 60$ p.p. 
-* Freedom Camping inkl. Duschen 
-* Wetter mit Hilfe einer Wetter App unbedingt vorab checken
+#### *Aktivitäten:*
+* FreeWalking Tour
+* Ausflug ins Historische Zentrum
+* Bao Viagem Strand
 
 
-### Surfer Paradise Byron Bay 
+### Byron Bay 
 
 ABC 
 
-![Australien](/assets/images/aussie01.jpg)
+![Australien](/assets/images/aussie21.jpg)
 
 ABC
 
 {:refdef: style="text-align: center;"}
-![AUS](/assets/images/aussie02.jpg){: width="30%"}
-![AUS](/assets/images/aussie03.jpg){: width="30%"}
-![AUS](/assets/images/aussie04.jpg){: width="30%"}
+![AUS](/assets/images/aussie05.jpg){: width="30%"}
+![AUS](/assets/images/aussie06.jpg){: width="30%"}
+![AUS](/assets/images/aussie07.jpg){: width="30%"}
 {: refdef}
 
 ABC
@@ -105,14 +81,18 @@ ABC
 ABC
 
 
-![Australien](/assets/images/aussie01.jpg)
+![Australien](/assets/images/aussie11.jpg)
 
 {:refdef: style="text-align: center;"}
-![AUS](/assets/images/aussie02.jpg){: width="30%"}
-![AUS](/assets/images/aussie03.jpg){: width="30%"}
-![AUS](/assets/images/aussie04.jpg){: width="30%"}
+![AUS](/assets/images/aussie12.jpg){: width="30%"}
+![AUS](/assets/images/aussie13.jpg){: width="30%"}
+![AUS](/assets/images/aussie14.jpg){: width="30%"}
 {: refdef}
 
+#### *Aktivitäten:*
+* FreeWalking Tour
+* Ausflug ins Historische Zentrum
+* Bao Viagem Strand
 
 ### Sydney 
 ABC
@@ -123,24 +103,20 @@ ABC
 ABC
 
 {:refdef: style="text-align: center;"}
-![AUS](/assets/images/aussie02.jpg){: width="30%"}
-![AUS](/assets/images/aussie03.jpg){: width="30%"}
-![AUS](/assets/images/aussie04.jpg){: width="30%"}
+![AUS](/assets/images/aussie22.jpg){: width="30%"}
+![AUS](/assets/images/aussie24.jpg){: width="30%"}
+![AUS](/assets/images/aussie23.jpg){: width="30%"}
 {: refdef}
 
 ABC
 
 
-![Australien](/assets/images/aussie01.jpg)
-
+![Australien](/assets/images/aussie25.jpg)
 
 #### *Aktivitäten:*
-* Spaziergang an der Strandpromenade 
-* Pirata Bar inkl. Tanzeinlage
-* Altstadt besichtigen
-* Sandbuggy Tour an der Küste entlang 
-* Radausleihen und die Promenade entlang fahren 
-* FreeWalkingTour
+* FreeWalking Tour
+* Ausflug ins Historische Zentrum
+* Bao Viagem Strand
 
 
 

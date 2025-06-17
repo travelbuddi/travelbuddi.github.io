@@ -89,7 +89,7 @@ Das Wetter lässt sich in der Regel 1–2 Tage im Voraus gut über spezielle App
 * Freedom Camping inkl. Duschen 
 * Wetter mit Hilfe einer Wetter App unbedingt vorab checken
 
-
+### 
 
 ### Zusammenfassung & Tipps 
 

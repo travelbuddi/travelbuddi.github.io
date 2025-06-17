@@ -4,7 +4,7 @@ permalink: "/reisen.html"
 ---
 
 ### Australien
-<a href="{% post_url 2025-04-07-australia %}">Entlang Australiens Ostküste: Von Sydney nach Byron Bay</a>.
+<a href="{% post_url 2025-04-07-australia %}">Australiens Ostküste entlang: Von Sydney nach Byron Bay</a>.
 
 ### Brasilien 
 <a href="{% post_url 2022-09-24-brazil %}">Brasilien hautnah: Von Nord nach Süd in 6 Wochen</a>. Unsere sechswöchige Brasilienreise führte uns durch faszinierende Städte, beeindruckende Naturwunder und kulturelle Highlights – von der lebhaften Energie Rios über die historischen Schätze Salvadors bis hin zu den majestätischen Iguazu-Wasserfällen. Ein Land voller Kontraste, das Abenteuer, Entspannung und kulturelle Vielfalt in Perfektion vereint.
@@ -28,3 +28,7 @@ In diesem Blogbeitrag berichten wir von unserer abenteuerlichen Vanreise durch O
 In diesem Beitrag nehmen wir euch mit auf unsere Reise durch Sizilien – von den beeindruckenden barocken Straßen Catanias über den majestätischen Vulkan Ätna bis hin zu den traumhaften Stränden von Taormina und Castellammare del Golfo. Erlebt mit uns die Highlights der Insel!
 
 ### Südost Asien
+<a href="{% post_url 2025-02-11-südostasien %}">Thailand, Kambodscha, Laos und Vietnam - alles was das Herz begehrt</a>
+
+### Taiwan 
+<a href="{% post_url 2025-03-18-Taiwan %}">10 Tage in Taiwan</a>
