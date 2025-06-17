@@ -124,5 +124,3 @@ ABC
 
 ABC
 
-
-![Australien](/assets/images/aussie01.jpg)
