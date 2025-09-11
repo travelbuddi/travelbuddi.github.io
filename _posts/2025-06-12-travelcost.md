@@ -14,7 +14,7 @@ tags: [featured]
 | Route                   | Portal                 | Price (p.P.) |
 |-------------------------|------------------------|--------------|
 | Wien → Bangkok          | Austrian Airlines      | 529€         |
-| Luang Prabang → Hanoi   | mein Flugladen         | 170€         |
+| Luang Prabang → Hanoi   | Mein Flugladen         | 170€         |
 | Hanoi → Taipei          | MyTrip                 | 132€         |
 | Taipei → Sydney         | MyTrip                 | 257€         |
 | Sydney → Aukland        | MyTrip                 | 177€         |
