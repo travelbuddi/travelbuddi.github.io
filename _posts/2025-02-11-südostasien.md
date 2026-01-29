@@ -7,9 +7,11 @@ image: assets/images/seatitelbild.jpg
 tags: [featured]
 ---
 
-#  Von Thailand nach Vietnam mit dem Bus, Zug und Minivan
+#  Von Thailand nach Vietnam mit dem Bus, Zug, Flugzeug, Minivan und Boot
+Gestarten sind wir in Bangkok und haben uns mit allen möglichen Verkehrmitteln bin Hoi An bewegt.
 
 ## Thailand
+Gestartet in Bangkok.
 
 ## Von Thailand nach Laos mit dem Slow Boat
 Im diesem Artikel findet ihr unsere Erfahrungen über das Slow Boat in Laos 2025.
